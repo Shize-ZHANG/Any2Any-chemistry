@@ -19702,3 +19702,212 @@
     "content": "This recap is delivered in <audio2> as the single accompanying audio, capturing the core claims on inflammation, LCHF eating, the pitfalls of processed foods and added sugars, and the call for informed, personal dietary choices."
   }
 }
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1041",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1041_01.png",
+      "audio1": ""
+    },
+    "content": "From <audio1> paired with <video1>, summarize the talk’s message about diet, inflammation, and health: the harms of processed foods, sugar/carbohydrates, and certain polyunsaturated oils; why the speaker promotes an LCHF approach with whole, local, seasonal foods; and the personal-responsibility call to action. Include one—and only one—supporting audio clip in the output."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1041_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1041_02.mp3"
+    },
+    "content": "This recap is delivered in <audio2> as the single accompanying audio, capturing the core claims on inflammation, LCHF eating, the pitfalls of processed foods and added sugars, and the call for informed, personal dietary choices."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1041",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1041_01.png",
+      "audio1": "Hi, I’m Dr. Sten Ekberg. In this program we’ll untangle why so many people still feel tired, cold, and foggy even when their thyroid tests look “normal.” We’ll walk through how the hypothalamus and pituitary signal the thyroid, why a wide TSH range can miss problems, and how real health lives in the tissues—where T4 must convert to the active T3. You’ll see how stress hormones, nutrient gaps, and halogens like fluoride and bromide can disturb that conversion, and why iodine helps in deficiency but isn’t a cure-all. We’ll separate marker health from tissue health, look at goiter and Hashimoto’s autoimmunity, and outline smarter labs beyond TSH—free T4/T3, antibodies, and liver–gut clues. Finally, I’ll share practical steps you can start today: whole-food nutrition with selenium and zinc, better sleep and stress care, clean water, and gentle detox support for liver and gut. Let’s get your thyroid working for you again."
+    },
+    "content": "Use <image1> as the opening card and the narration in <audio1> as the voiceover to continue the lesson about thyroid health—moving from lab numbers to tissue function, common pitfalls, Hashimoto’s, iodine, stress, and practical fixes. Please return exactly one video and one audio in the output as supporting material."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1041_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1041_02.mp3"
+    },
+    "content": "<video1> animates the flow from the hypothalamus–pituitary–thyroid axis to tissue-level conversion, contrasts TSH-only screening with a fuller panel, and illustrates iodine/goiter, halogen exposure, stress–cortisol effects, and Hashimoto’s. The single narration in <audio2> guides viewers through these scenes and lands on clear actions—targeted testing, nutrient repletion, stress management, cleaner water, and gut–liver support—to help resolve thyroid symptoms rather than masking them."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1042",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1042_01.png",
+      "audio1": "On screen we see a translucent brain with sparks of activity—our starting point for a journey into consciousness. I’ll pose a simple question: how much of what we do is chosen, and how much is prepared by the brain before we’re aware of it? We’ll contrast the ‘feeling’ of control with the machinery that drives decisions, then preview case studies—sleepwalking, anesthesia, split-brain research, emotion in social choice, and creativity when self-monitoring quiets down. Along the way we’ll note how past experience and context shape behavior, sometimes without our permission. The goal is not to dismiss free will, but to understand its limits so we can make better choices. Let’s follow the evidence and see where the unconscious mind leads."
+    },
+    "content": "Use <image1> as the opening frame and the narration in <audio1> as the setup, then continue the story into a short explainer that contrasts felt agency with brain mechanisms (sleepwalking, anesthesia, split-brain experiments, social emotion, creativity). Return exactly one video and one audio in the output as supporting material."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1042_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1042_02.mp3"
+    },
+    "content": "<video1> opens on the translucent brain from the title card, then moves through five scenes: a sleep lab showing complex actions during partial arousal; EEG spectrograms under anesthesia as consciousness fades and returns; split-brain tasks where each hemisphere acts on different information; social-decision trials revealing the pull of guilt and cooperation; and an fMRI-style visualization of freestyle creativity as self-monitoring quiets. The single narration in <audio2> connects these vignettes, concluding that awareness is only part of the story and that recognizing unconscious influences can improve self-understanding and choice."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1043",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1043_01.png",
+      "audio1": "Hello explorers! Look at <image1>—our friendly plant guide. Plants have special parts that each do a job: roots drink water and minerals, stems hold everything up and move sap, leaves are tiny kitchens that use sunlight, air, and water to make food in a process called photosynthesis. Some plants have amazing tricks too—like pitcher plants and Venus flytraps that catch insects because their soil is poor in nutrients. Plants also breathe out oxygen through tiny leaf doors called stomata, and they adapt to where they live: desert plants store water, rainforest plants drain extra rain, and many trees drop leaves for winter. Flowers are where new plants begin: pollen from the stamen reaches the pistil, a seed forms after fertilization, and with warmth and moisture the seed wakes up and sprouts. By learning how plants grow, eat, and reproduce, we can care for them—and they’ll care for us with food, shade, and fresh air!"
+    },
+    "content": "Use <image1> as the opening card and the narration in <audio1> to kick off a kid-friendly explainer about plant parts, photosynthesis, adaptations, pollination, fertilization, and germination. Return one video and one audio in the output as supporting materials."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1043_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1043_02.mp3"
+    },
+    "content": "<video1> starts with the cheerful plant mascot from <image1>, then moves through short animated scenes: leaves cooking with sunlight, roots sipping water, desert and rainforest adaptations, a flower showing pollen transfer, and a seed sprouting into a seedling. The single narration in <audio2> guides children through each step, tying the parts and processes together and ending with a reminder that caring for plants helps our whole planet."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1044",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1044_01.png",
+      "audio1": "Title card: “How does an mRNA vaccine work?” Viruses use spike proteins to latch onto our cells. The vaccine delivers a tiny strand of messenger RNA inside a lipid nanoparticle; after injection, nearby muscle cells take it up. Ribosomes read the mRNA and briefly make a harmless fragment of the viral spike, which is displayed to the immune system. Dendritic cells alert B and T cells, antibodies are formed, and memory cells are built for the future. The mRNA never enters the nucleus or changes DNA and breaks down naturally in hours to days. When the real virus arrives, those antibodies rush to coat its spikes and block entry, stopping infection before it can take hold."
+    },
+    "content": "Use <image1> as the opener and the narration in <audio1> to kick off an explainer that shows: lipid-packaged mRNA entering cells, translation into spike pieces, antigen presentation, antibody formation, and memory. Please return exactly one video and one audio in the output as the supporting materials."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1044_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1044_02.mp3"
+    },
+    "content": "<video1> animates the full sequence—from injection and cellular uptake of the lipid nanoparticle to spike production, antigen display, and neutralizing antibodies locking onto viral spikes—ending with memory cell icons. The single narration in <audio2> ties the steps together and reiterates the key points: temporary mRNA instructions, no DNA alteration, and rapid, targeted immunity on exposure."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1045",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1045_01.png",
+      "audio1": "We start with a close-up of hands poised to crack a knuckle, like in <image1>. What makes that pop? Inside each synovial joint is a slick fluid holding dissolved gases. When you pull or bend the joint, the space briefly expands, pressure drops, a bubble forms and collapses—cavitation—and that makes the characteristic sound. A different pop you sometimes hear when standing or stretching is a tendon snapping over a bony ridge, not gas. After a knuckle cracks, it usually won’t pop again for about twenty minutes while gases re-dissolve. Long-running observations—even a 60-year self-experiment cracking only one hand—haven’t shown more arthritis, though one study noted possible swelling and reduced grip with habitual cracking. Practical advice: if it hurts, stop; otherwise, the habit is likely harmless—but it can annoy people around you!"
+    },
+    "content": "Use <image1> to open and <audio1> as the narration scaffold, then continue with simple animations of a joint cross-section showing synovial fluid, bubble formation and collapse, a tendon snap comparison, the ~20-minute refractory period, and a brief note on long-term safety. Please return exactly one video and one audio in the output as the supporting materials."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1045_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1045_02.mp3"
+    },
+    "content": "<video1> transitions from the hands to a labeled joint diagram: the capsule fills with synovial fluid, the cavity expands, a bubble flashes and collapses with a pop, then a sidebar shows a tendon flicking over bone to contrast sounds. A timer icon illustrates the ~20-minute wait before the same knuckle can pop again, followed by a lighthearted nod to the 60-year one-hand experiment and a caution card about possible swelling/grip strength if overdone. The single narration in <audio2> ties these visuals together and ends with a commonsense takeaway: painless cracking is usually fine—just be considerate of others."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1046",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1046_01.png",
+      "audio1": "We begin at the lung surface. On screen, you’ll see finger-like cilia sweeping mucus while a virus drifts closer. Infection starts only when the virus’s surface proteins fit a matching receptor on the cell—like a key finding its lock. That attachment triggers entry, either by fusing with the membrane or by being swallowed into the cell. Once inside, the virus releases its genome, hijacks ribosomes and enzymes to copy itself, and assembles new particles that bud off to infect nearby cells. Understanding this lock-and-key step is why vaccines and antivirals often target the entry proteins: block the handshake, block the infection."
+    },
+    "content": "Use <image1> as the opening frame and the narration in <audio1> to set up a short explainer on viral entry—receptor binding, fusion/endocytosis, genome release, replication, and spread. Please provide exactly one video and one audio in the output as supporting materials."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1046_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1046_02.mp3"
+    },
+    "content": "<video1> follows the virus from cilia-lined airway to receptor binding, shows lock-and-key attachment, membrane fusion/endocytosis, uncoating of the genome, replication and assembly, and release of progeny. The single narration in <audio2> walks through each step and closes with the idea that therapies aim to interrupt entry to stop infection at the source."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1047",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1047_01.png",
+      "audio1": "Title: Normal pancreas, 2000× magnification. What you’re seeing are healthy epithelial cells packed together, dividing only when the body signals it’s time. Cancer begins when DNA damage disables these control systems. A single cell accumulates mutations in genes that govern growth and repair, then starts dividing faster than its neighbors—first as a tiny clonal patch, later as a visible mass. As the tumor enlarges, cells push aside or invade normal tissue and can hijack blood supply to keep growing. Additional mutations may let some cells break away and spread to distant organs. Understanding this step-by-step transition—from regulated growth to uncontrolled division—explains why early detection and targeting DNA damage pathways can stop cancer before it disrupts the surrounding healthy pancreas."
+    },
+    "content": "Begin with <image1> as the opener and use the narration in <audio1> to set up how normal pancreatic cells lose growth control and form a tumor. Please return exactly one video and one audio in the output to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1047_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1047_02.mp3"
+    },
+    "content": "<video1> zooms from a healthy pancreatic field into a single cell acquiring mutations, shows unchecked divisions forming a mass, compression of nearby tissue, recruitment of blood vessels, and a few cells escaping toward vessels. The single narration in <audio2> walks through these stages and underscores why early detection and DNA-repair–targeted therapies matter."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1048",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1048_01.png",
+      "audio1": "You’re looking at a CT scanner like the one you’ll meet on scan day. A CT scan helps doctors diagnose problems and track treatment. Beforehand you may be asked to drink water or a contrast drink, and a small cannula can be placed in a vein for iodine contrast—expect a brief scratch, then a warm flush and a metallic taste that quickly fades. You’ll lie on the table as it slides through the doughnut-shaped ring; the radiographer speaks to you from the control room and may ask you to keep still or hold your breath. The visit can take around an hour to ninety minutes including prep, though the actual imaging is much shorter, and results are usually sent to your doctor within the next couple of weeks."
+    },
+    "content": "Use <image1> as the opening frame and narrate with <audio1> to introduce what a CT scan is, how to prepare, what sensations to expect, and when results arrive. Please include exactly one video and one audio in the output as supporting material."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1048_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1048_02.mp3"
+    },
+    "content": "<video1> walks the viewer through the CT experience: check-in and prep, drinking/IV contrast, moving onto the table, the scanner’s noises and brief breath-holds, and a calm outro explaining the timeline for results. The single narration in <audio2> matches the visuals and reassures patients about the temporary warmth/metallic taste, the short imaging time, and the purpose of the scan."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1049",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1049_01.png",
+      "audio1": "Hi, I’m Shannon, a Biomedical Science student at UQ. <image1> shows where my journey began—light-filled teaching labs with real clinical models and instrumentation. I chose Brisbane and UQ for hands-on learning: small-group practicals, research-ready facilities, and mentors who bring current science into class. Outside the lab, there are student societies, tutoring and teaching opportunities, and placements that connect us to hospitals and institutes across the city. If you’re curious about how the body works—or want a pathway into research, medicine, or industry—biomed at UQ gives you the tools, a community, and plenty of ways to get involved."
+    },
+    "content": "Use <image1> as the opener and the narration in <audio1> to introduce why a student chose UQ Biomedical Science—facilities, research access, community, and career pathways. Please include exactly one video and one audio in the output as supporting material."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1049_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1049_02.mp3"
+    },
+    "content": "<video1> moves from the student interview to a quick tour of UQ’s biomed spaces—wet labs, anatomy models, imaging rooms, and a research floor—then shows scenes of student societies and mentoring sessions. The single narration in <audio2> ties these moments together, emphasizing modern facilities, early research involvement, supportive campus life, and how the program opens doors to medicine, research, and biotech."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1050",
+  "input": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1050_01.png",
+      "audio1": "Open on <image1>: a splash of amber liquid crosses a black background as a white plume drifts in. Voiceover: “When drugs mix inside the body, the chemistry can change fast—and the results are unpredictable. Even if something felt ‘fine’ before, your heart, breathing, and brain may react differently the next time. Depressants like alcohol, opioids, or benzodiazepines combine to slow breathing; stimulants can mask warning signs and strain the heart; and prescriptions or OTC meds can interact in dangerous ways. If you don’t know how two substances interact, the safest choice is not to combine them. If someone looks blue, won’t wake, or isn’t breathing normally, call emergency services immediately.”"
+    },
+    "content": "Build a short explainer that continues from <image1> and the narration in <audio1>, showing why mixing substances is risky and how reactions vary from use to use. Please return exactly one video and one audio in the output as supporting material."
+  },
+  "output": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1050_01.mp4",
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1050_02.mp3"
+    },
+    "content": "<video1> animates the meeting of two substances, then transitions to simple organ icons (heart, lungs, brain) pulsing erratically to illustrate additive and masking effects (depressant + depressant; stimulant + depressant; medication interactions). A final card lists clear warning signs of overdose and the emergency call prompt. The single narration in <audio2> ties the scenes together: reactions vary by dose, timing, and individual biology; mixing increases risk of respiratory failure and cardiac stress; the safest approach is not to combine drugs; seek medical help immediately if danger signs appear."
+  }
+}
