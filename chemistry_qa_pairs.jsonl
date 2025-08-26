@@ -19172,3 +19172,173 @@
     "content": "In <image1>, inflammatory changes include **bone marrow edema (BME), capsulitis, synovitis, enthesitis of the ligamentous compartment of the sacroiliac joint, and other pelvic enthesitis**. Structural changes include **erosion of subchondral bone, bone sclerosis, joint space abnormality, articular bony bridges/ankylosis, and fat deposition**. Inflammatory changes reflect active disease processes, while structural changes represent chronic remodeling or damage."
   }
 }
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1011",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1011_01.png"
+    },
+    "content": "In one concise paragraph, summarize the main findings, methods, and implications described in <document1>."
+  },
+  "output": {
+    "modal": {
+      "document2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1011_02.png"
+    },
+    "content": "Wild-type Herpesvirus saimiri expressing HSUR1/2 selectively lowers cellular miR-27a/b by accelerating decay after processing, since precursor levels and passenger strands are unchanged. A radiolabeled pulse–chase shows miR-27a degrades faster in wild-type than in HSUR-deficient cells, while miR-16 is unaffected, indicating selectivity. Functionally, reduced miR-27 correlates with increased FOXO1 protein; HSUR1 knockdown reverses this pattern, identifying HSUR1 as the principal mediator of this post-transcriptional control. A clean, formatted version of this summary is provided in <document2>."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1012",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1012_01.png"
+    },
+    "content": "Condense the passage in <document1> into a single English paragraph that captures the transcripts discovered, the cloning strategy, and the exon mapping. The answer must include 1 image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1012_02.png"
+    },
+    "content": "A one-paragraph summary emphasizing the identified Golli–MBP transcripts and their exon usage has been prepared; see <document2> for the formatted version accompanying the required image."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1013",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1013_01.png"
+    },
+    "content": "Distill <document1> into a succinct English paragraph capturing the longitudinal viremia pattern, within-host viral evolution, and CTL-escape mutations. The answer must include 1 image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1013_02.png"
+    },
+    "content": "A formatted one-paragraph synthesis—highlighting the viremia trends and the E2 position-495 shifts (R495T → wild type → R495K) and their fitness/CTL implications—is provided in <document2>."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1014",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1014_01.png"
+    },
+    "content": "Summarize <document1> in one clear English paragraph, highlighting the protocol’s anti-phenolic buffer design and the downstream genetic applications it enabled in cotton. The answer must include 1 image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1014_02.png"
+    },
+    "content": "A concise paragraph capturing the protocol, its phenolic-mitigation strategy, and its use in RFLP/RAPD mapping is provided in <document2>."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1015",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1015_01.png"
+    },
+    "content": "Craft a compact English paragraph that synthesizes the assay, growth-factor dependence, and marker profile described in <document1>. The answer must include 1 image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1015_02.png"
+    },
+    "content": "A concise synthesis of the neurosphere-like ‘cardiospheres’, their EGF/FGF2 requirement, and nestin/Musashi-1 expression is presented in <document2>."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1016",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1016_01.png"
+    },
+    "content": "Summarize how genes and environment jointly contribute to obesity and diabetes in <document1>, highlighting the key loci and phenotypes. The answer must include 1 image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1016_02.png"
+    },
+    "content": "A compact overview of the gene–environment interplay and highlighted variants (MC4R, LEP/LEPR, PCSK1, POMC, PPARG P12A, HNF4A/HNF1A, KCNJ11 E23K, TCF7L2, mitochondrial changes) is provided in <document2>."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1017",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1017_01.png"
+    },
+    "content": "Write a compact English paragraph explaining which recruited telomeric/repair factors do or do not induce APB assembly at lacO-tagged telomeres, noting relative efficiencies. The answer must include 1 image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1017_02.png"
+    },
+    "content": "A brief highlight of the recruitment assay and which factors most effectively drive APB formation is provided in <document2>."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1018",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1018_01.png"
+    },
+    "content": "From <document1>, write a concise English paragraph explaining how HTRF is applied to protein/DNA interaction assays and to biomarker detection (include example targets and assay formats). The answer must include 1 image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1018_02.png"
+    },
+    "content": "The requested one-paragraph overview of HTRF use cases and example biomarkers is presented in <document2>."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1019",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1019_01.png"
+    },
+    "content": "Summarize the passage in <document1> by explaining how ATR/Chk1 checkpoints influence replication factory number, origin firing, and fork stability. The answer must include 1 image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1019_02.png"
+    },
+    "content": "A one-paragraph synthesis emphasizing checkpoint-driven suppression of new factories, the modest activation of dormant origins, and fork destabilization is provided in <document2>."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1020",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1020_01.png"
+    },
+    "content": "Condense <document1> into a single coherent paragraph that explains the proposed APB→TRF2→ATM sequence culminating in telomere lengthening in ALT U2OS cells. The answer must include 1 image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "document2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1020_02.png"
+    },
+    "content": "A compact narrative of the APB-driven telomere-lengthening model and TRF2/ATM dynamics is provided in <document2>."
+  }
+}
