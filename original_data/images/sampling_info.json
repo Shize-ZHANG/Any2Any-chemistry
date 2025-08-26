@@ -1,0 +1,1209 @@
+{
+  "total_groups": 100,
+  "images_per_group": 2,
+  "start_id": 901,
+  "end_id": 1000,
+  "available_subsets": 90,
+  "groups": [
+    {
+      "group_id": 901,
+      "subset": "sr_atad5_tox21-multimodal",
+      "original_images": [
+        "sr_atad5_tox21-multimodal_070293.png",
+        "sr_atad5_tox21-multimodal_076480.png"
+      ],
+      "target_names": [
+        "img_0901_01.png",
+        "img_0901_02.png"
+      ]
+    },
+    {
+      "group_id": 902,
+      "subset": "cyp_p450_1a2_inhibition_veith_et_al-multimodal",
+      "original_images": [
+        "cyp_p450_1a2_inhibition_veith_et_al-multimodal_098324.png",
+        "cyp_p450_1a2_inhibition_veith_et_al-multimodal_149108.png"
+      ],
+      "target_names": [
+        "img_0902_01.png",
+        "img_0902_02.png"
+      ]
+    },
+    {
+      "group_id": 903,
+      "subset": "MUV_810-multimodal",
+      "original_images": [
+        "MUV_810-multimodal_029615.png",
+        "MUV_810-multimodal_044312.png"
+      ],
+      "target_names": [
+        "img_0903_01.png",
+        "img_0903_02.png"
+      ]
+    },
+    {
+      "group_id": 904,
+      "subset": "p_glycoprotein_inhibition_broccatelli_et_al-multimodal",
+      "original_images": [
+        "p_glycoprotein_inhibition_broccatelli_et_al-multimodal_000474.png",
+        "p_glycoprotein_inhibition_broccatelli_et_al-multimodal_004244.png"
+      ],
+      "target_names": [
+        "img_0904_01.png",
+        "img_0904_02.png"
+      ]
+    },
+    {
+      "group_id": 905,
+      "subset": "lipophilicity-multimodal",
+      "original_images": [
+        "lipophilicity-multimodal_001093.png",
+        "lipophilicity-multimodal_020077.png"
+      ],
+      "target_names": [
+        "img_0905_01.png",
+        "img_0905_02.png"
+      ]
+    },
+    {
+      "group_id": 906,
+      "subset": "MUV_733-multimodal",
+      "original_images": [
+        "MUV_733-multimodal_028052.png",
+        "MUV_733-multimodal_038241.png"
+      ],
+      "target_names": [
+        "img_0906_01.png",
+        "img_0906_02.png"
+      ]
+    },
+    {
+      "group_id": 907,
+      "subset": "nr_er_lbd_tox21-multimodal",
+      "original_images": [
+        "nr_er_lbd_tox21-multimodal_081516.png",
+        "nr_er_lbd_tox21-multimodal_031240.png"
+      ],
+      "target_names": [
+        "img_0907_01.png",
+        "img_0907_02.png"
+      ]
+    },
+    {
+      "group_id": 908,
+      "subset": "qm8-multimodal",
+      "original_images": [
+        "qm8-multimodal_110804.png",
+        "qm8-multimodal_190114.png"
+      ],
+      "target_names": [
+        "img_0908_01.png",
+        "img_0908_02.png"
+      ]
+    },
+    {
+      "group_id": 909,
+      "subset": "sr_mmp_tox21-multimodal",
+      "original_images": [
+        "sr_mmp_tox21-multimodal_002099.png",
+        "sr_mmp_tox21-multimodal_014477.png"
+      ],
+      "target_names": [
+        "img_0909_01.png",
+        "img_0909_02.png"
+      ]
+    },
+    {
+      "group_id": 910,
+      "subset": "ld50_zhu-multimodal",
+      "original_images": [
+        "ld50_zhu-multimodal_000925.png",
+        "ld50_zhu-multimodal_063242.png"
+      ],
+      "target_names": [
+        "img_0910_01.png",
+        "img_0910_02.png"
+      ]
+    },
+    {
+      "group_id": 911,
+      "subset": "serine_threonine_kinase_33_butkiewicz-multimodal",
+      "original_images": [
+        "serine_threonine_kinase_33_butkiewicz-multimodal_000994.png",
+        "serine_threonine_kinase_33_butkiewicz-multimodal_000557.png"
+      ],
+      "target_names": [
+        "img_0911_01.png",
+        "img_0911_02.png"
+      ]
+    },
+    {
+      "group_id": 912,
+      "subset": "BACE-multimodal",
+      "original_images": [
+        "BACE-multimodal_004154.png",
+        "BACE-multimodal_000369.png"
+      ],
+      "target_names": [
+        "img_0912_01.png",
+        "img_0912_02.png"
+      ]
+    },
+    {
+      "group_id": 913,
+      "subset": "SIDER-multimodal",
+      "original_images": [
+        "SIDER-multimodal_005642.png",
+        "SIDER-multimodal_017515.png"
+      ],
+      "target_names": [
+        "img_0913_01.png",
+        "img_0913_02.png"
+      ]
+    },
+    {
+      "group_id": 914,
+      "subset": "freesolv-multimodal",
+      "original_images": [
+        "freesolv-multimodal_003587.png",
+        "freesolv-multimodal_012823.png"
+      ],
+      "target_names": [
+        "img_0914_01.png",
+        "img_0914_02.png"
+      ]
+    },
+    {
+      "group_id": 915,
+      "subset": "cav3_t-type_calcium_channels_butkiewicz-multimodal",
+      "original_images": [
+        "cav3_t-type_calcium_channels_butkiewicz-multimodal_466481.png",
+        "cav3_t-type_calcium_channels_butkiewicz-multimodal_619732.png"
+      ],
+      "target_names": [
+        "img_0915_01.png",
+        "img_0915_02.png"
+      ]
+    },
+    {
+      "group_id": 916,
+      "subset": "MUV_810-multimodal",
+      "original_images": [
+        "MUV_810-multimodal_021999.png",
+        "MUV_810-multimodal_015929.png"
+      ],
+      "target_names": [
+        "img_0916_01.png",
+        "img_0916_02.png"
+      ]
+    },
+    {
+      "group_id": 917,
+      "subset": "MUV_737-multimodal",
+      "original_images": [
+        "MUV_737-multimodal_037845.png",
+        "MUV_737-multimodal_015917.png"
+      ],
+      "target_names": [
+        "img_0917_01.png",
+        "img_0917_02.png"
+      ]
+    },
+    {
+      "group_id": 918,
+      "subset": "half_life_obach-multimodal",
+      "original_images": [
+        "half_life_obach-multimodal_001187.png",
+        "half_life_obach-multimodal_000966.png"
+      ],
+      "target_names": [
+        "img_0918_01.png",
+        "img_0918_02.png"
+      ]
+    },
+    {
+      "group_id": 919,
+      "subset": "MUV_644-multimodal",
+      "original_images": [
+        "MUV_644-multimodal_017724.png",
+        "MUV_644-multimodal_041449.png"
+      ],
+      "target_names": [
+        "img_0919_01.png",
+        "img_0919_02.png"
+      ]
+    },
+    {
+      "group_id": 920,
+      "subset": "orexin1_receptor_butkiewicz-multimodal",
+      "original_images": [
+        "orexin1_receptor_butkiewicz-multimodal_000070.png",
+        "orexin1_receptor_butkiewicz-multimodal_000331.png"
+      ],
+      "target_names": [
+        "img_0920_01.png",
+        "img_0920_02.png"
+      ]
+    },
+    {
+      "group_id": 921,
+      "subset": "herg_central_inhib-multimodal",
+      "original_images": [
+        "herg_central_inhib-multimodal_001387.png",
+        "herg_central_inhib-multimodal_001336.png"
+      ],
+      "target_names": [
+        "img_0921_01.png",
+        "img_0921_02.png"
+      ]
+    },
+    {
+      "group_id": 922,
+      "subset": "cyp_p450_2c9_inhibition_veith_et_al-multimodal",
+      "original_images": [
+        "cyp_p450_2c9_inhibition_veith_et_al-multimodal_034588.png",
+        "cyp_p450_2c9_inhibition_veith_et_al-multimodal_082935.png"
+      ],
+      "target_names": [
+        "img_0922_01.png",
+        "img_0922_02.png"
+      ]
+    },
+    {
+      "group_id": 923,
+      "subset": "solubility_aqsoldb-multimodal",
+      "original_images": [
+        "solubility_aqsoldb-multimodal_004989.png",
+        "solubility_aqsoldb-multimodal_044605.png"
+      ],
+      "target_names": [
+        "img_0923_01.png",
+        "img_0923_02.png"
+      ]
+    },
+    {
+      "group_id": 924,
+      "subset": "herg_central_at_10uM-multimodal",
+      "original_images": [
+        "herg_central_at_10uM-multimodal_348605.png",
+        "herg_central_at_10uM-multimodal_1334755.png"
+      ],
+      "target_names": [
+        "img_0924_01.png",
+        "img_0924_02.png"
+      ]
+    },
+    {
+      "group_id": 925,
+      "subset": "MUV_692-multimodal",
+      "original_images": [
+        "MUV_692-multimodal_020915.png",
+        "MUV_692-multimodal_040784.png"
+      ],
+      "target_names": [
+        "img_0925_01.png",
+        "img_0925_02.png"
+      ]
+    },
+    {
+      "group_id": 926,
+      "subset": "chembl_v29-multimodal",
+      "original_images": [
+        "chembl_v29-multimodal_1124486.png",
+        "chembl_v29-multimodal_930781.png"
+      ],
+      "target_names": [
+        "img_0926_01.png",
+        "img_0926_02.png"
+      ]
+    },
+    {
+      "group_id": 927,
+      "subset": "MUV_713-multimodal",
+      "original_images": [
+        "MUV_713-multimodal_036467.png",
+        "MUV_713-multimodal_017789.png"
+      ],
+      "target_names": [
+        "img_0927_01.png",
+        "img_0927_02.png"
+      ]
+    },
+    {
+      "group_id": 928,
+      "subset": "MUV_737-multimodal",
+      "original_images": [
+        "MUV_737-multimodal_038783.png",
+        "MUV_737-multimodal_018641.png"
+      ],
+      "target_names": [
+        "img_0928_01.png",
+        "img_0928_02.png"
+      ]
+    },
+    {
+      "group_id": 929,
+      "subset": "mona-multimodal",
+      "original_images": [
+        "mona-multimodal_454726.png",
+        "mona-multimodal_820049.png"
+      ],
+      "target_names": [
+        "img_0929_01.png",
+        "img_0929_02.png"
+      ]
+    },
+    {
+      "group_id": 930,
+      "subset": "herg_central_at_10uM-multimodal",
+      "original_images": [
+        "herg_central_at_10uM-multimodal_1080473.png",
+        "herg_central_at_10uM-multimodal_1157513.png"
+      ],
+      "target_names": [
+        "img_0930_01.png",
+        "img_0930_02.png"
+      ]
+    },
+    {
+      "group_id": 931,
+      "subset": "herg_blockers-multimodal",
+      "original_images": [
+        "herg_blockers-multimodal_005180.png",
+        "herg_blockers-multimodal_000478.png"
+      ],
+      "target_names": [
+        "img_0931_01.png",
+        "img_0931_02.png"
+      ]
+    },
+    {
+      "group_id": 932,
+      "subset": "cyp3a4_substrate_carbonmangels-multimodal",
+      "original_images": [
+        "cyp3a4_substrate_carbonmangels-multimodal_000589.png",
+        "cyp3a4_substrate_carbonmangels-multimodal_004411.png"
+      ],
+      "target_names": [
+        "img_0932_01.png",
+        "img_0932_02.png"
+      ]
+    },
+    {
+      "group_id": 933,
+      "subset": "uniprot_binding_sites_multiple-multimodal",
+      "original_images": [
+        "uniprot_binding_sites_multiple-multimodal_001432.png",
+        "uniprot_binding_sites_multiple-multimodal_001470.png"
+      ],
+      "target_names": [
+        "img_0933_01.png",
+        "img_0933_02.png"
+      ]
+    },
+    {
+      "group_id": 934,
+      "subset": "skin_reaction-multimodal",
+      "original_images": [
+        "skin_reaction-multimodal_001978.png",
+        "skin_reaction-multimodal_001334.png"
+      ],
+      "target_names": [
+        "img_0934_01.png",
+        "img_0934_02.png"
+      ]
+    },
+    {
+      "group_id": 935,
+      "subset": "orexin1_receptor_butkiewicz-multimodal",
+      "original_images": [
+        "orexin1_receptor_butkiewicz-multimodal_001202.png",
+        "orexin1_receptor_butkiewicz-multimodal_000759.png"
+      ],
+      "target_names": [
+        "img_0935_01.png",
+        "img_0935_02.png"
+      ]
+    },
+    {
+      "group_id": 936,
+      "subset": "SIDER-multimodal",
+      "original_images": [
+        "SIDER-multimodal_005313.png",
+        "SIDER-multimodal_030421.png"
+      ],
+      "target_names": [
+        "img_0936_01.png",
+        "img_0936_02.png"
+      ]
+    },
+    {
+      "group_id": 937,
+      "subset": "cyp3a4_substrate_carbonmangels-multimodal",
+      "original_images": [
+        "cyp3a4_substrate_carbonmangels-multimodal_004411.png",
+        "cyp3a4_substrate_carbonmangels-multimodal_000171.png"
+      ],
+      "target_names": [
+        "img_0937_01.png",
+        "img_0937_02.png"
+      ]
+    },
+    {
+      "group_id": 938,
+      "subset": "volume_of_distribution_at_steady_state_lombardo_et_al-multimodal",
+      "original_images": [
+        "volume_of_distribution_at_steady_state_lombardo_et_al-multimodal_012121.png",
+        "volume_of_distribution_at_steady_state_lombardo_et_al-multimodal_004115.png"
+      ],
+      "target_names": [
+        "img_0938_01.png",
+        "img_0938_02.png"
+      ]
+    },
+    {
+      "group_id": 939,
+      "subset": "uniprot_binding_sites_multiple-multimodal",
+      "original_images": [
+        "uniprot_binding_sites_multiple-multimodal_001305.png",
+        "uniprot_binding_sites_multiple-multimodal_000892.png"
+      ],
+      "target_names": [
+        "img_0939_01.png",
+        "img_0939_02.png"
+      ]
+    },
+    {
+      "group_id": 940,
+      "subset": "MUV_689-multimodal",
+      "original_images": [
+        "MUV_689-multimodal_008198.png",
+        "MUV_689-multimodal_017997.png"
+      ],
+      "target_names": [
+        "img_0940_01.png",
+        "img_0940_02.png"
+      ]
+    },
+    {
+      "group_id": 941,
+      "subset": "MUV_600-multimodal",
+      "original_images": [
+        "MUV_600-multimodal_042194.png",
+        "MUV_600-multimodal_022397.png"
+      ],
+      "target_names": [
+        "img_0941_01.png",
+        "img_0941_02.png"
+      ]
+    },
+    {
+      "group_id": 942,
+      "subset": "human_intestinal_absorption-multimodal",
+      "original_images": [
+        "human_intestinal_absorption-multimodal_003361.png",
+        "human_intestinal_absorption-multimodal_003840.png"
+      ],
+      "target_names": [
+        "img_0942_01.png",
+        "img_0942_02.png"
+      ]
+    },
+    {
+      "group_id": 943,
+      "subset": "cav3_t-type_calcium_channels_butkiewicz-multimodal",
+      "original_images": [
+        "cav3_t-type_calcium_channels_butkiewicz-multimodal_951476.png",
+        "cav3_t-type_calcium_channels_butkiewicz-multimodal_1268676.png"
+      ],
+      "target_names": [
+        "img_0943_01.png",
+        "img_0943_02.png"
+      ]
+    },
+    {
+      "group_id": 944,
+      "subset": "drug_induced_liver_injury-multimodal",
+      "original_images": [
+        "drug_induced_liver_injury-multimodal_004128.png",
+        "drug_induced_liver_injury-multimodal_001909.png"
+      ],
+      "target_names": [
+        "img_0944_01.png",
+        "img_0944_02.png"
+      ]
+    },
+    {
+      "group_id": 945,
+      "subset": "nr_aromatase_tox21-multimodal",
+      "original_images": [
+        "nr_aromatase_tox21-multimodal_020038.png",
+        "nr_aromatase_tox21-multimodal_041486.png"
+      ],
+      "target_names": [
+        "img_0945_01.png",
+        "img_0945_02.png"
+      ]
+    },
+    {
+      "group_id": 946,
+      "subset": "sr_hse_tox21-multimodal",
+      "original_images": [
+        "sr_hse_tox21-multimodal_070112.png",
+        "sr_hse_tox21-multimodal_029907.png"
+      ],
+      "target_names": [
+        "img_0946_01.png",
+        "img_0946_02.png"
+      ]
+    },
+    {
+      "group_id": 947,
+      "subset": "cyp2d6_substrate_carbonmangels-multimodal",
+      "original_images": [
+        "cyp2d6_substrate_carbonmangels-multimodal_003289.png",
+        "cyp2d6_substrate_carbonmangels-multimodal_003428.png"
+      ],
+      "target_names": [
+        "img_0947_01.png",
+        "img_0947_02.png"
+      ]
+    },
+    {
+      "group_id": 948,
+      "subset": "qm8-multimodal",
+      "original_images": [
+        "qm8-multimodal_147214.png",
+        "qm8-multimodal_203146.png"
+      ],
+      "target_names": [
+        "img_0948_01.png",
+        "img_0948_02.png"
+      ]
+    },
+    {
+      "group_id": 949,
+      "subset": "sarscov2_vitro_touret-multimodal",
+      "original_images": [
+        "sarscov2_vitro_touret-multimodal_012068.png",
+        "sarscov2_vitro_touret-multimodal_011671.png"
+      ],
+      "target_names": [
+        "img_0949_01.png",
+        "img_0949_02.png"
+      ]
+    },
+    {
+      "group_id": 950,
+      "subset": "sarscov2_vitro_touret-multimodal",
+      "original_images": [
+        "sarscov2_vitro_touret-multimodal_014827.png",
+        "sarscov2_vitro_touret-multimodal_008957.png"
+      ],
+      "target_names": [
+        "img_0950_01.png",
+        "img_0950_02.png"
+      ]
+    },
+    {
+      "group_id": 951,
+      "subset": "chebi_20-multimodal",
+      "original_images": [
+        "chebi_20-multimodal_125286.png",
+        "chebi_20-multimodal_298448.png"
+      ],
+      "target_names": [
+        "img_0951_01.png",
+        "img_0951_02.png"
+      ]
+    },
+    {
+      "group_id": 952,
+      "subset": "nr_aromatase_tox21-multimodal",
+      "original_images": [
+        "nr_aromatase_tox21-multimodal_049375.png",
+        "nr_aromatase_tox21-multimodal_021770.png"
+      ],
+      "target_names": [
+        "img_0952_01.png",
+        "img_0952_02.png"
+      ]
+    },
+    {
+      "group_id": 953,
+      "subset": "MUV_652-multimodal",
+      "original_images": [
+        "MUV_652-multimodal_049477.png",
+        "MUV_652-multimodal_001799.png"
+      ],
+      "target_names": [
+        "img_0953_01.png",
+        "img_0953_02.png"
+      ]
+    },
+    {
+      "group_id": 954,
+      "subset": "RedDB-multimodal",
+      "original_images": [
+        "RedDB-multimodal_272310.png",
+        "RedDB-multimodal_297332.png"
+      ],
+      "target_names": [
+        "img_0954_01.png",
+        "img_0954_02.png"
+      ]
+    },
+    {
+      "group_id": 955,
+      "subset": "uniprot_binding_sites_multiple-multimodal",
+      "original_images": [
+        "uniprot_binding_sites_multiple-multimodal_000646.png",
+        "uniprot_binding_sites_multiple-multimodal_001010.png"
+      ],
+      "target_names": [
+        "img_0955_01.png",
+        "img_0955_02.png"
+      ]
+    },
+    {
+      "group_id": 956,
+      "subset": "MUV_692-multimodal",
+      "original_images": [
+        "MUV_692-multimodal_042938.png",
+        "MUV_692-multimodal_010920.png"
+      ],
+      "target_names": [
+        "img_0956_01.png",
+        "img_0956_02.png"
+      ]
+    },
+    {
+      "group_id": 957,
+      "subset": "moses-multimodal",
+      "original_images": [
+        "moses-multimodal_401404.png",
+        "moses-multimodal_187755.png"
+      ],
+      "target_names": [
+        "img_0957_01.png",
+        "img_0957_02.png"
+      ]
+    },
+    {
+      "group_id": 958,
+      "subset": "pampa_ncats-multimodal",
+      "original_images": [
+        "pampa_ncats-multimodal_010175.png",
+        "pampa_ncats-multimodal_003475.png"
+      ],
+      "target_names": [
+        "img_0958_01.png",
+        "img_0958_02.png"
+      ]
+    },
+    {
+      "group_id": 959,
+      "subset": "uniprot_binding_sites_multiple-multimodal",
+      "original_images": [
+        "uniprot_binding_sites_multiple-multimodal_000661.png",
+        "uniprot_binding_sites_multiple-multimodal_001060.png"
+      ],
+      "target_names": [
+        "img_0959_01.png",
+        "img_0959_02.png"
+      ]
+    },
+    {
+      "group_id": 960,
+      "subset": "uniprot_binding_sites_multiple-multimodal",
+      "original_images": [
+        "uniprot_binding_sites_multiple-multimodal_000175.png",
+        "uniprot_binding_sites_multiple-multimodal_000443.png"
+      ],
+      "target_names": [
+        "img_0960_01.png",
+        "img_0960_02.png"
+      ]
+    },
+    {
+      "group_id": 961,
+      "subset": "cyp3a4_substrate_carbonmangels-multimodal",
+      "original_images": [
+        "cyp3a4_substrate_carbonmangels-multimodal_004403.png",
+        "cyp3a4_substrate_carbonmangels-multimodal_000171.png"
+      ],
+      "target_names": [
+        "img_0961_01.png",
+        "img_0961_02.png"
+      ]
+    },
+    {
+      "group_id": 962,
+      "subset": "freesolv-multimodal",
+      "original_images": [
+        "freesolv-multimodal_008689.png",
+        "freesolv-multimodal_001768.png"
+      ],
+      "target_names": [
+        "img_0962_01.png",
+        "img_0962_02.png"
+      ]
+    },
+    {
+      "group_id": 963,
+      "subset": "m1_muscarinic_receptor_agonists_butkiewicz-multimodal",
+      "original_images": [
+        "m1_muscarinic_receptor_agonists_butkiewicz-multimodal_134958.png",
+        "m1_muscarinic_receptor_agonists_butkiewicz-multimodal_486360.png"
+      ],
+      "target_names": [
+        "img_0963_01.png",
+        "img_0963_02.png"
+      ]
+    },
+    {
+      "group_id": 964,
+      "subset": "BACE-multimodal",
+      "original_images": [
+        "BACE-multimodal_005275.png",
+        "BACE-multimodal_003514.png"
+      ],
+      "target_names": [
+        "img_0964_01.png",
+        "img_0964_02.png"
+      ]
+    },
+    {
+      "group_id": 965,
+      "subset": "cyp2d6_substrate_carbonmangels-multimodal",
+      "original_images": [
+        "cyp2d6_substrate_carbonmangels-multimodal_000507.png",
+        "cyp2d6_substrate_carbonmangels-multimodal_006717.png"
+      ],
+      "target_names": [
+        "img_0965_01.png",
+        "img_0965_02.png"
+      ]
+    },
+    {
+      "group_id": 966,
+      "subset": "aminoacids-multimodal",
+      "original_images": [
+        "aminoacids-multimodal_000060.png",
+        "aminoacids-multimodal_000038.png"
+      ],
+      "target_names": [
+        "img_0966_01.png",
+        "img_0966_02.png"
+      ]
+    },
+    {
+      "group_id": 967,
+      "subset": "MUV_810-multimodal",
+      "original_images": [
+        "MUV_810-multimodal_047385.png",
+        "MUV_810-multimodal_023845.png"
+      ],
+      "target_names": [
+        "img_0967_01.png",
+        "img_0967_02.png"
+      ]
+    },
+    {
+      "group_id": 968,
+      "subset": "cyp_p450_2d6_inhibition_veith_et_al-multimodal",
+      "original_images": [
+        "cyp_p450_2d6_inhibition_veith_et_al-multimodal_170765.png",
+        "cyp_p450_2d6_inhibition_veith_et_al-multimodal_091458.png"
+      ],
+      "target_names": [
+        "img_0968_01.png",
+        "img_0968_02.png"
+      ]
+    },
+    {
+      "group_id": 969,
+      "subset": "nr_er_lbd_tox21-multimodal",
+      "original_images": [
+        "nr_er_lbd_tox21-multimodal_081516.png",
+        "nr_er_lbd_tox21-multimodal_058345.png"
+      ],
+      "target_names": [
+        "img_0969_01.png",
+        "img_0969_02.png"
+      ]
+    },
+    {
+      "group_id": 970,
+      "subset": "RedDB-multimodal",
+      "original_images": [
+        "RedDB-multimodal_293907.png",
+        "RedDB-multimodal_099287.png"
+      ],
+      "target_names": [
+        "img_0970_01.png",
+        "img_0970_02.png"
+      ]
+    },
+    {
+      "group_id": 971,
+      "subset": "SIDER-multimodal",
+      "original_images": [
+        "SIDER-multimodal_005322.png",
+        "SIDER-multimodal_019797.png"
+      ],
+      "target_names": [
+        "img_0971_01.png",
+        "img_0971_02.png"
+      ]
+    },
+    {
+      "group_id": 972,
+      "subset": "opv-multimodal",
+      "original_images": [
+        "opv-multimodal_000227.png",
+        "opv-multimodal_000165.png"
+      ],
+      "target_names": [
+        "img_0972_01.png",
+        "img_0972_02.png"
+      ]
+    },
+    {
+      "group_id": 973,
+      "subset": "sigma_aldrich_safety_data-multimodal",
+      "original_images": [
+        "sigma_aldrich_safety_data-multimodal_410297.png",
+        "sigma_aldrich_safety_data-multimodal_251691.png"
+      ],
+      "target_names": [
+        "img_0973_01.png",
+        "img_0973_02.png"
+      ]
+    },
+    {
+      "group_id": 974,
+      "subset": "MUV_466-multimodal",
+      "original_images": [
+        "MUV_466-multimodal_044291.png",
+        "MUV_466-multimodal_039937.png"
+      ],
+      "target_names": [
+        "img_0974_01.png",
+        "img_0974_02.png"
+      ]
+    },
+    {
+      "group_id": 975,
+      "subset": "herg_central_at_10uM-multimodal",
+      "original_images": [
+        "herg_central_at_10uM-multimodal_1304942.png",
+        "herg_central_at_10uM-multimodal_965682.png"
+      ],
+      "target_names": [
+        "img_0975_01.png",
+        "img_0975_02.png"
+      ]
+    },
+    {
+      "group_id": 976,
+      "subset": "cyp_p450_3a4_inhibition_veith_et_al-multimodal",
+      "original_images": [
+        "cyp_p450_3a4_inhibition_veith_et_al-multimodal_126117.png",
+        "cyp_p450_3a4_inhibition_veith_et_al-multimodal_044232.png"
+      ],
+      "target_names": [
+        "img_0976_01.png",
+        "img_0976_02.png"
+      ]
+    },
+    {
+      "group_id": 977,
+      "subset": "clearance_astrazeneca-multimodal",
+      "original_images": [
+        "clearance_astrazeneca-multimodal_000751.png",
+        "clearance_astrazeneca-multimodal_002494.png"
+      ],
+      "target_names": [
+        "img_0977_01.png",
+        "img_0977_02.png"
+      ]
+    },
+    {
+      "group_id": 978,
+      "subset": "MUV_713-multimodal",
+      "original_images": [
+        "MUV_713-multimodal_048883.png",
+        "MUV_713-multimodal_040243.png"
+      ],
+      "target_names": [
+        "img_0978_01.png",
+        "img_0978_02.png"
+      ]
+    },
+    {
+      "group_id": 979,
+      "subset": "nr_ar_tox21-multimodal",
+      "original_images": [
+        "nr_ar_tox21-multimodal_059559.png",
+        "nr_ar_tox21-multimodal_065864.png"
+      ],
+      "target_names": [
+        "img_0979_01.png",
+        "img_0979_02.png"
+      ]
+    },
+    {
+      "group_id": 980,
+      "subset": "orexin1_receptor_butkiewicz-multimodal",
+      "original_images": [
+        "orexin1_receptor_butkiewicz-multimodal_000108.png",
+        "orexin1_receptor_butkiewicz-multimodal_000270.png"
+      ],
+      "target_names": [
+        "img_0980_01.png",
+        "img_0980_02.png"
+      ]
+    },
+    {
+      "group_id": 981,
+      "subset": "MUV_852-multimodal",
+      "original_images": [
+        "MUV_852-multimodal_028815.png",
+        "MUV_852-multimodal_016425.png"
+      ],
+      "target_names": [
+        "img_0981_01.png",
+        "img_0981_02.png"
+      ]
+    },
+    {
+      "group_id": 982,
+      "subset": "pampa_ncats-multimodal",
+      "original_images": [
+        "pampa_ncats-multimodal_011315.png",
+        "pampa_ncats-multimodal_003316.png"
+      ],
+      "target_names": [
+        "img_0982_01.png",
+        "img_0982_02.png"
+      ]
+    },
+    {
+      "group_id": 983,
+      "subset": "opv-multimodal",
+      "original_images": [
+        "opv-multimodal_000625.png",
+        "opv-multimodal_002309.png"
+      ],
+      "target_names": [
+        "img_0983_01.png",
+        "img_0983_02.png"
+      ]
+    },
+    {
+      "group_id": 984,
+      "subset": "lipophilicity-multimodal",
+      "original_images": [
+        "lipophilicity-multimodal_010516.png",
+        "lipophilicity-multimodal_023200.png"
+      ],
+      "target_names": [
+        "img_0984_01.png",
+        "img_0984_02.png"
+      ]
+    },
+    {
+      "group_id": 985,
+      "subset": "p_glycoprotein_inhibition_broccatelli_et_al-multimodal",
+      "original_images": [
+        "p_glycoprotein_inhibition_broccatelli_et_al-multimodal_008418.png",
+        "p_glycoprotein_inhibition_broccatelli_et_al-multimodal_011598.png"
+      ],
+      "target_names": [
+        "img_0985_01.png",
+        "img_0985_02.png"
+      ]
+    },
+    {
+      "group_id": 986,
+      "subset": "volume_of_distribution_at_steady_state_lombardo_et_al-multimodal",
+      "original_images": [
+        "volume_of_distribution_at_steady_state_lombardo_et_al-multimodal_007740.png",
+        "volume_of_distribution_at_steady_state_lombardo_et_al-multimodal_003716.png"
+      ],
+      "target_names": [
+        "img_0986_01.png",
+        "img_0986_02.png"
+      ]
+    },
+    {
+      "group_id": 987,
+      "subset": "cyp_p450_3a4_inhibition_veith_et_al-multimodal",
+      "original_images": [
+        "cyp_p450_3a4_inhibition_veith_et_al-multimodal_049611.png",
+        "cyp_p450_3a4_inhibition_veith_et_al-multimodal_118551.png"
+      ],
+      "target_names": [
+        "img_0987_01.png",
+        "img_0987_02.png"
+      ]
+    },
+    {
+      "group_id": 988,
+      "subset": "sr_mmp_tox21-multimodal",
+      "original_images": [
+        "sr_mmp_tox21-multimodal_003116.png",
+        "sr_mmp_tox21-multimodal_048875.png"
+      ],
+      "target_names": [
+        "img_0988_01.png",
+        "img_0988_02.png"
+      ]
+    },
+    {
+      "group_id": 989,
+      "subset": "nr_ppar_gamma_tox21-multimodal",
+      "original_images": [
+        "nr_ppar_gamma_tox21-multimodal_070593.png",
+        "nr_ppar_gamma_tox21-multimodal_057019.png"
+      ],
+      "target_names": [
+        "img_0989_01.png",
+        "img_0989_02.png"
+      ]
+    },
+    {
+      "group_id": 990,
+      "subset": "clintox-multimodal",
+      "original_images": [
+        "clintox-multimodal_002508.png",
+        "clintox-multimodal_008768.png"
+      ],
+      "target_names": [
+        "img_0990_01.png",
+        "img_0990_02.png"
+      ]
+    },
+    {
+      "group_id": 991,
+      "subset": "freesolv-multimodal",
+      "original_images": [
+        "freesolv-multimodal_008665.png",
+        "freesolv-multimodal_003957.png"
+      ],
+      "target_names": [
+        "img_0991_01.png",
+        "img_0991_02.png"
+      ]
+    },
+    {
+      "group_id": 992,
+      "subset": "pampa_ncats-multimodal",
+      "original_images": [
+        "pampa_ncats-multimodal_002552.png",
+        "pampa_ncats-multimodal_017900.png"
+      ],
+      "target_names": [
+        "img_0992_01.png",
+        "img_0992_02.png"
+      ]
+    },
+    {
+      "group_id": 993,
+      "subset": "chebi_20-multimodal",
+      "original_images": [
+        "chebi_20-multimodal_121230.png",
+        "chebi_20-multimodal_160640.png"
+      ],
+      "target_names": [
+        "img_0993_01.png",
+        "img_0993_02.png"
+      ]
+    },
+    {
+      "group_id": 994,
+      "subset": "sr_are_tox21-multimodal",
+      "original_images": [
+        "sr_are_tox21-multimodal_017374.png",
+        "sr_are_tox21-multimodal_038594.png"
+      ],
+      "target_names": [
+        "img_0994_01.png",
+        "img_0994_02.png"
+      ]
+    },
+    {
+      "group_id": 995,
+      "subset": "MUV_692-multimodal",
+      "original_images": [
+        "MUV_692-multimodal_025898.png",
+        "MUV_692-multimodal_020915.png"
+      ],
+      "target_names": [
+        "img_0995_01.png",
+        "img_0995_02.png"
+      ]
+    },
+    {
+      "group_id": 996,
+      "subset": "flashpoint-multimodal",
+      "original_images": [
+        "flashpoint-multimodal_032258.png",
+        "flashpoint-multimodal_045739.png"
+      ],
+      "target_names": [
+        "img_0996_01.png",
+        "img_0996_02.png"
+      ]
+    },
+    {
+      "group_id": 997,
+      "subset": "clearance_astrazeneca-multimodal",
+      "original_images": [
+        "clearance_astrazeneca-multimodal_002458.png",
+        "clearance_astrazeneca-multimodal_000391.png"
+      ],
+      "target_names": [
+        "img_0997_01.png",
+        "img_0997_02.png"
+      ]
+    },
+    {
+      "group_id": 998,
+      "subset": "nr_ar_tox21-multimodal",
+      "original_images": [
+        "nr_ar_tox21-multimodal_037826.png",
+        "nr_ar_tox21-multimodal_018567.png"
+      ],
+      "target_names": [
+        "img_0998_01.png",
+        "img_0998_02.png"
+      ]
+    },
+    {
+      "group_id": 999,
+      "subset": "MUV_852-multimodal",
+      "original_images": [
+        "MUV_852-multimodal_009374.png",
+        "MUV_852-multimodal_043493.png"
+      ],
+      "target_names": [
+        "img_0999_01.png",
+        "img_0999_02.png"
+      ]
+    },
+    {
+      "group_id": 1000,
+      "subset": "sarscov2_3clpro_diamond-multimodal",
+      "original_images": [
+        "sarscov2_3clpro_diamond-multimodal_003284.png",
+        "sarscov2_3clpro_diamond-multimodal_007409.png"
+      ],
+      "target_names": [
+        "img_1000_01.png",
+        "img_1000_02.png"
+      ]
+    }
+  ]
+}
