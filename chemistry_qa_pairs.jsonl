@@ -19522,3 +19522,183 @@
     "content": "<image1> shows a body-wide network of lymphatic vessels feeding into lymph nodes. Vessels collect excess interstitial fluid as lymph and return it to venous blood (e.g., via the thoracic duct/right lymphatic duct). As lymph passes through nodes, immune cells filter pathogens and debris, initiating adaptive responses. In the small intestine, lacteals absorb dietary fats as chylomicrons, moving them through lymph before they enter the bloodstream—illustrating the system’s roles in fluid balance, immunity, and fat absorption."
   }
 }
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1031",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1031_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1031_01.mp3"
+    },
+    "content": "From <audio1> in <video1>, craft a brief spoken-style summary (3–5 sentences) of the video’s message about modern medicine, personalized therapies, nanotechnology, regenerative medicine, immunotherapy, and CRISPR. Please attach exactly 1 supporting audio clip in the output."
+  },
+  "output": {
+    "modal": {
+      "audio2": "We face an aging population and a growing burden of chronic disease, which makes the search for new therapies urgent. The narration describes how advances in biology converge with technology—nanodevices for monitoring and repair, and tissue engineering to restore damaged tissues—pushing healthcare toward personalization. It highlights immunotherapy to strengthen T-cell responses and CRISPR genome editing to correct mutations at their source. These innovations point to more tailored, possibly home-delivered care and a shift from replacement to regeneration. Ethical oversight and equitable access remain essential as these tools reshape the future of medicine."
+    },
+    "content": "The recap in <audio2> condenses the narration into a clear overview of the drivers of change and the roles of nanotechnology, regenerative medicine, immunotherapy, and CRISPR in enabling personalized care; this is the single supporting audio requested."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1032",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1032_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1032_01.mp3"
+    },
+    "content": "From <audio1> in <video1>, deliver a concise spoken-style overview (3–5 sentences) covering what medical nanobots are, how they home to cancer cells in the bloodstream, why this can reduce side effects versus chemotherapy, current research progress, and broader applications. Include exactly 1 supporting audio clip in the output to accompany the explanation."
+  },
+  "output": {
+    "modal": {
+      "audio2": "Nanobots are nanoscale devices engineered to travel through the bloodstream and selectively home in on cancer cells using molecular markers. By delivering therapy directly to tumors while sparing healthy tissue, they promise fewer side effects than conventional chemotherapy. Early animal work, such as mouse studies, has shown tumor shrinkage, but human use still requires solving engineering and safety challenges. Beyond oncology, concepts include diagnostic nanoprobes, tissue-repair bots, and artificial blood components like respirocytes and hemostasis systems. Altogether, nanobots point toward precise, minimally invasive treatments with broad future potential."
+    },
+    "content": "The narrated summary in <audio2> captures the key ideas from <audio1>: targeted cancer treatment with fewer side effects, promising preclinical results, and extensions to diagnosis, tissue repair, and artificial blood."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1033",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1033_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1033_01.mp3"
+    },
+    "content": "Using <audio1> from <video1>, give a concise narrated overview of Parkinson’s disease: major motor and non-motor symptoms, dopaminergic neuron loss in the substantia nigra pars compacta, the roles of alpha-synuclein/Lewy bodies, mitochondrial dysfunction, neuroinflammation, and current versus investigational therapies. Please attach one—and only one—supporting audio clip in the output."
+  },
+  "output": {
+    "modal": {
+      "audio2": "Parkinson’s disease is a common neurodegenerative disorder marked by slowed movement, rigidity, tremor, and a range of non-motor symptoms that can precede diagnosis. The core pathology involves progressive loss of dopaminergic neurons in the substantia nigra pars compacta, which disrupts basal ganglia circuits controlling movement. Misfolded alpha-synuclein aggregates into Lewy bodies, while mitochondrial dysfunction and impaired quality control increase cellular stress; activated microglia and astrocytes can further amplify injury through neuroinflammation. Current treatments such as dopamine replacement and deep brain stimulation relieve symptoms but do not halt neurodegeneration. Emerging strategies aim to enhance protein clearance, restore mitochondrial health, and modulate inflammation to slow disease progression."
+    },
+    "content": "This recap is delivered in <audio2> as the single requested audio accompaniment, summarizing symptoms, dopaminergic loss, protein pathology, mitochondrial and inflammatory mechanisms, and therapeutic directions."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1034",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1034_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1034_01.mp3"
+    },
+    "content": "Using <audio1> from <video1>, summarize the story of artificial hearts—why heart failure demands new options, transplant scarcity, the evolution from early total artificial hearts to modern devices (e.g., SynCardia/Carmat), the BiVACOR rotary design, and remaining power/durability challenges with future outlook. Include one supporting audio clip in the output to accompany the explanation."
+  },
+  "output": {
+    "modal": {
+      "audio2": "Heart failure remains the leading global killer, and the shortage of donor hearts means most candidates never receive a transplant. The narration traces the field from the first total artificial heart through devices like SynCardia and Carmat, highlighting lessons from mechanical wear and reliability. A newer approach, BiVACOR’s rotary total artificial heart, uses a magnetically levitated spinning disk to pump blood continuously, aiming to reduce wear and extend durability. Even with these advances, real-world hurdles persist—especially bulky external power packs and limited battery life—spurring work on better energy efficiency and wireless charging. As trials progress toward regulatory approval, durable, permanent artificial hearts could shift care from temporary bridges to long-term replacements for patients with end-stage heart failure."
+    },
+    "content": "The recap in <audio2> conveys why artificial hearts are needed, how designs have evolved, what differentiates the BiVACOR rotary system, and which power and durability issues still stand between today’s devices and truly permanent replacements—delivered as the single supporting audio item."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1035",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1035_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1035_01.mp3"
+    },
+    "content": "Based on <audio1> that accompanies <video1>, produce a spoken-style synopsis of the brain’s lifecycle—early development and neuroplasticity, adolescent changes, aging adaptations, and end-of-life activity. Include exactly 1 supporting audio clip in the output to accompany your explanation."
+  },
+  "output": {
+    "modal": {
+      "audio2": "From conception onward, the brain rapidly organizes billions of neurons, pruning and strengthening connections through childhood to lay the foundations for learning and behavior. During adolescence, emotional circuits mature earlier than rational control systems, which helps explain greater risk-taking as integration continues. With aging, people often recruit both hemispheres and draw on experience to maintain function even as structural and chemical changes progress. Studies also suggest brief, organized brain activity can persist near death, possibly relating to vivid life recall. Overall, the narration frames the brain as resilient and plastic across life, shaped by experience from the earliest stages through the end."
+    },
+    "content": "The narrated recap in <audio2> condenses the key ideas from <audio1>: rapid early wiring and pruning, teen imbalances between emotion and control, adaptive strategies in aging, and observations of transient activity close to death."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1036",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1036_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1036_01.mp3"
+    },
+    "content": "From <audio1> accompanying <video1>, provide a spoken-style overview of Dr. David Perlmutter’s message: brain–metabolism links in Alzheimer’s, limits of recent drugs, the long preclinical window for prevention, and lifestyle levers such as exercise, myokines, nitric oxide/dietary nitrates, and colorful vegetables. Please include a single supporting audio clip in the output."
+  },
+  "output": {
+    "modal": {
+      "audio2": "The narration frames Alzheimer’s less as a problem solved by a single breakthrough drug and more as a metabolic disorder influenced by everyday choices. It reviews mixed results and safety concerns for recent anti-amyloid drugs, arguing that prevention must begin decades before symptoms. Lifestyle becomes the centerpiece: exercise acting like an endocrine organ releasing myokines that support brain metabolism, and diet patterns that raise nitric oxide—via nitrate-rich greens and beets—to improve blood flow. The takeaway is a proactive, prevention-first strategy: prioritize movement and nutrient-dense foods to support brain energy systems and potentially delay cognitive decline."
+    },
+    "content": "Delivered in <audio2>, this concise recap emphasizes the speaker’s thesis on metabolism-centered brain health, the limits of drug-only approaches, and practical prevention themes around exercise and nitrate-rich diets."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1037",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1037_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1037_01.mp3"
+    },
+    "content": "Using <audio1> from <video1>, compose a spoken recap covering sugar’s hidden presence in processed foods, industry tactics like the ‘bliss point,’ health risks (obesity/diabetes), and practical ways to cut intake and improve labeling transparency. Please attach a single supporting audio clip in the output."
+  },
+  "output": {
+    "modal": {
+      "audio2": "Sugar is woven through the modern diet, often hidden behind appealing labels and engineered ‘bliss point’ formulations that keep us craving more. The narration links rising consumption to obesity, diabetes, and broader chronic disease trends, arguing that the threat now mirrors the tobacco era in scale and urgency. It shows how everyday items marketed as healthy can carry surprising sugar loads, then offers simple strategies: choose whole, minimally processed foods, cook more at home, and read labels carefully for renamed sugars. The piece also calls on industry and regulators to provide clearer labeling and rein in manipulative marketing so families can make informed choices. Bottom line: reducing added sugar is one of the highest-impact steps most people can take for long-term health."
+    },
+    "content": "This summary is delivered in <audio2>, highlighting hidden sugars and marketing tactics, the link to chronic disease, and actionable ways for consumers to cut added sugar while urging clearer labeling."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1038",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1038_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1038_01.mp3"
+    },
+    "content": "Using <audio1> that accompanies <video1>, give a concise narrated overview of metabolism and fat-cell biology: insulin resistance, adipocyte hypertrophy vs. hyperplasia, the personal fat threshold, how insulin and energy availability govern storage and release, and research/clinical implications. Include one audio attachment in the output to accompany your explanation (exactly 1 audio)."
+  },
+  "output": {
+    "modal": {
+      "audio2": "Insulin resistance sits at the center of modern metabolic disease, and fat cells are key players. Adipose tissue expands by hypertrophy—each adipocyte getting larger—or by hyperplasia—making more adipocytes; oversized, hypertrophic cells are strongly linked to insulin resistance and spillover of fuels. Each person has a personal fat threshold: once storage capacity is exceeded, lipids and inflammatory signals escape into the circulation and metabolism deranges. Fat gain requires both energy surplus and elevated insulin, which promotes storage and suppresses lipolysis; conversely, when insulin is low, fat cells can shrink even without severe energy restriction. These principles explain population differences in risk, why some drugs that induce adipocyte hyperplasia can paradoxically improve insulin sensitivity, and why focusing on insulin dynamics is crucial in interpreting diet studies and clinical care."
+    },
+    "content": "This synthesized recap is provided in <audio2>—the single supporting audio requested—covering insulin resistance, adipocyte growth modes, the personal fat threshold, and how insulin/energy interplay shapes metabolic health."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1039",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1039_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1039_01.mp3"
+    },
+    "content": "Using the narration in <audio1> that accompanies <video1>, summarize the talk’s core argument about diabetes: why focusing only on blood glucose misses the disease’s root in insulin resistance, how standard medications can perpetuate the cycle, and which dietary strategies (e.g., carbohydrate restriction, intermittent fasting) help lower insulin and improve outcomes. Please return exactly one supporting audio clip in the output."
+  },
+  "output": {
+    "modal": {
+      "audio2": "Diabetes is framed here as a disorder of insulin resistance rather than simply high blood sugar, which is why drug-based glucose lowering often fails to change the disease’s trajectory. The speaker explains the vicious cycle: chronically high insulin drives greater resistance, leading to higher doses and worsening metabolic health over time. A dietary approach—reducing refined carbohydrates and using structured fasting—can lower insulin, empty excess stored glucose, and improve markers without escalating medication. Case examples illustrate meaningful reversals, and the takeaway is to prioritize insulin-lowering lifestyle strategies alongside medical supervision."
+    },
+    "content": "The recap is delivered in <audio2>, distilling the message from <audio1> about insulin resistance as the root cause, the limits of glucose-centric medication, and practical dietary tools to break the cycle."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1040",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1040_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1040_01.mp3"
+    },
+    "content": "From <audio1> paired with <video1>, summarize the talk’s message about diet, inflammation, and health: the harms of processed foods, sugar/carbohydrates, and certain polyunsaturated oils; why the speaker promotes an LCHF approach with whole, local, seasonal foods; and the personal-responsibility call to action. Include one—and only one—supporting audio clip in the output."
+  },
+  "output": {
+    "modal": {
+      "audio2": "The speaker argues that much of modern disease stems from chronic inflammation fueled by processed foods, sugars and refined carbohydrates, and some polyunsaturated seed oils. He promotes a low-carbohydrate, healthy-fat pattern centered on whole, seasonal, locally sourced foods as a practical way to calm inflammation and improve metabolic health. Fructose sources and refined carbs are highlighted for their effects on insulin resistance, while the talk urges skepticism toward industry-driven nutrition narratives. The takeaway is a simple, personal playbook: prioritize real foods, cut ultraprocessed products, and engage your community to shift norms toward healthier eating."
+    },
+    "content": "This recap is delivered in <audio2> as the single accompanying audio, capturing the core claims on inflammation, LCHF eating, the pitfalls of processed foods and added sugars, and the call for informed, personal dietary choices."
+  }
+}
