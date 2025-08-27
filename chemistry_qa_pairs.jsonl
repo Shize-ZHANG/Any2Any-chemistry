@@ -17092,14 +17092,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0901_01.png",
-      "audio1": "The image shows the structure of trimethyl phosphate, an organophosphate compound often used in organic synthesis and as a solvent. Analyze the arrangement of the functional groups and their potential chemical reactivity in various conditions."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0901_01.mp3"
     },
     "content": "Analyze the organophosphate compound depicted in <image1>. Listen to the structural analysis in <audio1>. What information can be inferred from this about its chemical reactivity? Ensure that your answer incorporates one image and one audio to support your explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0901_02.png",
-      "audio2": "The image illustrates the hydrolysis mechanism of trimethyl phosphate under acidic conditions, forming phosphoric acid and methanol. This reactivity can be attributed to the electronegative oxygen atoms that facilitate nucleophilic attacks. Detailed examination of the electron distribution highlights the compound's susceptibility to hydrolysis."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0901_02.mp3"
     },
     "content": "The compound trimethyl phosphate is susceptible to hydrolysis, especially in acidic mediums, resulting in phosphoric acid and methanol production, as shown in <image2>. For an in-depth understanding of the nucleophilic attack on the phosphorus atom, listen to the explanation in <audio2>."
   }
@@ -17111,14 +17111,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0902_01.png",
-      "audio1": "This molecular structure involves an amide bond which is crucial in the formation of proteins, connecting amino acids together. Analyze the given compound and identify the key functional groups."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0902_01.mp3"
     },
     "content": "Examine the <image1> molecular structure and listen to the <audio1> description to identify the functional groups present in the compound. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0902_02.png",
-      "audio2": "The compound features ester and amide functional groups. The presence of these groups influences the reactivity and solubility of the molecule."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0902_02.mp3"
     },
     "content": "Identify the ester and amide groups shown in <image2> and listen to <audio2> to understand their chemical behaviors and properties."
   }
@@ -17130,14 +17130,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0903_01.png",
-      "audio1": "This molecular structure involves multiple functional groups, including a cyclohexane ring and an isopropyl group. The image depicts a compound that may undergo substitution reactions under certain conditions. Pay attention to the structural connectivity and the position of nitrogen and oxygen atoms."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0903_01.mp3"
     },
     "content": "Analyze the given reaction in <image1> and explain the potential mechanism using the information provided in <audio1>. The answer must include one image and one audio to support the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0903_02.png",
-      "audio2": "The transformation shown here typically involves a nucleophilic substitution mechanism. The initial compound, under the action of H2O and iPrOH, proceeds via a concerted SN2-like mechanism where the leaving group is displaced. This results in the modified structure seen in this image, highlighting the importance of sterics and electronics in the reaction outcome."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0903_02.mp3"
     },
     "content": "The image depicts the product of a nucleophilic substitution reaction, where the original leaving group has been replaced. <image2> illustrates the final structure, while <audio2> provides a detailed explanation of the underlying reaction mechanism."
   }
@@ -17149,14 +17149,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0904_01.png",
-      "audio1": "The image shows a mechanism involving a nucleophilic attack by a nitrogen atom on a positively charged carbon. Explain how this type of reaction can lead to the formation of specific ring structures and provide examples of similar chemical mechanisms."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0904_01.mp3"
     },
     "content": "Examine <image1> and listen to <audio1> to understand the reaction mechanism and its implications for forming certain molecular structures. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0904_02.png",
-      "audio2": "In the image, a specific example of amide bond formation is depicted, illustrating how nitrogen's nucleophilicity initiates this process, crucial for synthesizing cyclic compounds. The electron movement highlighted is typical in reactions that create stable ring structures."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0904_02.mp3"
     },
     "content": "The golden annotation answer describes how the action depicted in <image2> is a specific example of amide bond formation, using a nucleophilic nitrogen. Listen to <audio2> for more details on the electron movement and reaction stability leading to the creation of cyclic compounds."
   }
@@ -17168,14 +17168,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0905_01.png",
-      "audio1": "The compound in the image is a heterocyclic aromatic compound. It includes nitrogen atoms within the rings, which can participate in forming hydrogen bonds or engaging in protonation, significantly affecting the compound's reactivity and interactions."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0905_01.mp3"
     },
     "content": "Examine how the molecular structure shown in <image1> might influence its chemical reactivity. Support your explanation with the <audio1> description and indicate how these structures interact with other molecules."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0905_02.png",
-      "audio2": "The altered molecular structure shown here highlights key reactive sites. The presence of additional functional groups increases solubility and potential for forming varied chemical interactions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0905_02.mp3"
     },
     "content": "The structure in the provided image illustrates how altering functional groups can enhance reactivity. By expanding on the presence of reactive nitrogen sites, this structure’s ability to interact is enhanced, as depicted in <image2> and explained in the <audio2>."
   }
@@ -17187,14 +17187,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0906_01.png",
-      "audio1": "The starting compound shown is crucial for understanding the subsequent reaction mechanism. It contains multiple aromatic rings and a key nitrogen atom that plays a role in the reaction environment."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0906_01.mp3"
     },
     "content": "Examine the chemical structure depicted in <image1> along with the detailed explanation provided in <audio1>. How does the reaction environment change, and which product is expected to form, supported by both one image and one audio in your answer?"
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0906_02.png",
-      "audio2": "The reaction results in a rearrangement where the nitrogen atom facilitates the formation of a new bond. The solvent and conditions indicated lead to the creation of a distinct aromatic product."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0906_02.mp3"
     },
     "content": "The product formed, as seen in <image2>, results from the rearrangement facilitated by the reaction conditions. This structural change is highlighted by <audio2>, illustrating the molecular transformation."
   }
@@ -17206,14 +17206,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0907_01.png",
-      "audio1": "The structure shown is 1-bromododecane, a brominated alkane. Visualize its linear carbon chain and bromine atom. Consider discussing halogenation mechanisms that involve this compound."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0907_01.mp3"
     },
     "content": "Using the information provided in <image1> and the description from <audio1>, explain the role of 1-bromododecane in nucleophilic substitution reactions and highlight the reaction mechanism. Your answer should include one image and one audio to support your explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0907_02.png",
-      "audio2": "In nucleophilic substitution reactions, 1-bromododecane undergoes a reaction where the bromine is replaced by another nucleophile. This typically follows an SN2 mechanism, forming an intermediate transition state. The rate of reaction depends on factors such as the strength of the nucleophile and the solvent used."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0907_02.mp3"
     },
     "content": "1-bromododecane is often used in SN2 reactions due to its structure that allows a nucleophile to attack the carbon attached to bromine. In <image2>, observe how the bromine atom is positioned in the molecule and listen to <audio2> for more details on the transition state and reaction kinetics of this process."
   }
@@ -17225,14 +17225,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0908_01.png",
-      "audio1": "The molecule shown in the image represents an amino aldehyde with both an aldehyde and hydroxyl functional groups. Consider discussing the reactivity of this structure and its potential to undergo reactions such as oxidation or formation of imines."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0908_01.mp3"
     },
     "content": "Explain the chemical properties and possible reactions of the <image1> compound in detail, and discuss how its molecular structure <audio1> influences these reactions. Your answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0908_02.png",
-      "audio2": "The highlighted functional groups include the aldehyde group, which can participate in reactions like oxidation to form carboxylic acids, and the hydroxyl group, which can engage in formation of ethers or esters. These groups enhance the compound’s reactivity, enabling a variety of synthetic pathways."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0908_02.mp3"
     },
     "content": "The amino aldehyde shown in the <image2> structure has interesting reactivity due to the presence of both aldehyde and hydroxyl groups. It can undergo various chemical reactions, such as oxidation and imine formation, significantly influenced by its molecular configuration <audio2>."
   }
@@ -17244,14 +17244,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0909_01.png",
-      "audio1": "This image displays the structural formula of a compound involving zirconium bonded to chlorine and oxygen. Notice the geometry that can result from these connections, which is often employed in various catalytic processes."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0909_01.mp3"
     },
     "content": "Examine the chemical structure in <image1> and explain the potential uses and reactions involving this compound. Ensure that your explanation includes an image and audio to support the answer, especially focusing on molecular geometry and reactivity using the concepts discussed in the <audio1>."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0909_02.png",
-      "audio2": "The compound illustrated typically acts as an intermediate in coordination chemistry. It often participates in ligand exchange reactions and plays a role in catalytic cycles. Its structure allows for enhanced reactivity, particularly in forming new bonds with organic substrates."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0909_02.mp3"
     },
     "content": "The highlighted compound in <image2> suggests potential applications in catalysis. The geometry depicted plays a crucial role in its reactivity with organic molecules. Additionally, listen to <audio2> which explains its involvement in coordination chemistry reactions and catalytic processes."
   }
@@ -17263,14 +17263,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0910_01.png",
-      "audio1": "This image shows a molecular structure reacting through two steps involving TMEDA and benzene, followed by HBr and EtOH. Explain the significance of these reagents and the reaction mechanism they facilitate."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0910_01.mp3"
     },
     "content": "Refer to <image1> and listen to <audio1>. Provide an explanation of the depicted reaction in terms of the involved chemical transformations and intermediates. Highlight the changes occurring to the molecular structure and what the reagents accomplish in both steps."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0910_02.png",
-      "audio2": "The reaction demonstrates a complex molecular rearrangement. Initially, TMEDA acts as a ligand, facilitating the diradical formation. Subsequently, HBr in ethanol plays the role of protonation, leading to a ring-opening. The final structure shown provides insight into the rearrangement, which is evident from the molecular changes."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0910_02.mp3"
     },
     "content": "Using <image2> and accompanying <audio2>, illustrate the completion of the chemical reaction. Provide details on the molecular rearrangement and the effect of the reagents used, explaining how the reaction progresses from reactants to products."
   }
@@ -17282,14 +17282,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0910_01.png",
-      "audio1": "The depicted chemical reaction involves the transformation of the initial compound using TMEDA in benzene, followed by treatment with HBr in ethanol. Observe the molecular structure to identify the functional groups that are likely affected by these conditions."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0910_01.mp3"
     },
     "content": "Examine <image1> to identify the starting compound and consider how the reaction conditions described in <audio1> will alter its structure. Incorporate both modalities to explain the expected product."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0910_02.png",
-      "audio2": "The reaction yields a modified molecule with the addition of a halogen group. The presence of HBr facilitates the substitution reaction, leading to the formation of an alkyl halide. This process is evident in the updated structure shown in the image."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0910_02.mp3"
     },
     "content": "The resulting product is shown in <image2>. The reaction intermediate undergoes a halogenation, as described in <audio2>, resulting in an altered molecular structure."
   }
@@ -17301,14 +17301,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0911_01.png",
-      "audio1": "This molecule contains an ester linkage, which can be identified by the carbonyl group adjacent to an ether linkage in the structure."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0911_01.mp3"
     },
     "content": "Explain the chemical structure and possible reactivity of the molecule shown in <image1>. Use <audio1> for more detailed insights on functional groups and linkages. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0911_02.png",
-      "audio2": "The presence of nitrogen in a heterocyclic ring may indicate potential sites for nucleophilic attack due to its electronegativity, affecting reactivity."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0911_02.mp3"
     },
     "content": "The chemical structure includes a pyridine ring which can act as an electron-withdrawing group, potentially altering reactivity. Furthermore, <image2> reveals an additional feature that may contribute to stability or interactions. The heterocyclic nature described in <audio2> offers crucial insight into potential reaction mechanisms."
   }
@@ -17320,14 +17320,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0912_01.png",
-      "audio1": "This structure represents a bicyclic organic compound with a pyridine moiety. Pay attention to the nitrogen atoms in the rings and the direction of electron flow depicted."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0912_01.mp3"
     },
     "content": "Analyze the molecular structure depicted in <image1> to determine how electron movement affects its reactivity. Include <audio1> in your explanation to support your analysis of the electron flow in the compound. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0912_02.png",
-      "audio2": "The electron flow indicated in the image facilitates the formation of resonance structures. This impacts the stability and reactivity of the molecular framework, particularly enhancing its ability to participate in nucleophilic substitution reactions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0912_02.mp3"
     },
     "content": "The electron flow outlined in <image2> illustrates possible resonance forms. This influences the compound's reactivity, especially in facilitating nucleophilic substitutions. <audio2> provides further insights into the chemical behavior associated with these structural changes."
   }
@@ -17339,14 +17339,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0913_01.png",
-      "audio1": "This is the chemical structure of a nucleoside. It includes a purine base attached to a ribose sugar. The image demonstrates the hydrogen bonding sites and functional groups involved in nucleotide interactions."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0913_01.mp3"
     },
     "content": "Examine the <image1> for the molecular structure of a nucleoside. Describe the interactions it might participate in within the DNA strand using chemical explanations. Support your explanation with detailed insights from the <audio1>. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0913_02.png",
-      "audio2": "This image illustrates how the nucleoside integrates into the DNA structure through hydrogen bonding and base pairing. The presence of the hydroxyl group also suggests its role in forming phosphodiester linkages during DNA synthesis."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0913_02.mp3"
     },
     "content": "The <image2> shows the integration of this nucleoside into the DNA strand, highlighting its role in base pairing and phosphodiester linkage formation. Listen to the detailed chemical analysis in the <audio2> to understand these mechanisms."
   }
@@ -17358,14 +17358,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0914_01.png",
-      "audio1": "The image illustrates an ester structure. Esters are characterized by the presence of a carbon atom double-bonded to an oxygen atom and single-bonded to another oxygen atom connected to a carbon chain. They are commonly used in fragrances and as solvents."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0914_01.mp3"
     },
     "content": "Examine the chemical structure shown in <image1>. Use the information provided in <audio1> to explain the functional group present and its potential applications. Include an image and an audio description to support your explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0914_02.png",
-      "audio2": "The structure is of ethyl butanoate, a typical ester which is formed through the esterification of butanoic acid and ethanol. This reaction involves the nucleophilic attack of the alcohol on the acid's carbonyl group. Esters like ethyl butanoate are noted for their fruity aromas and are used in flavorings and perfumes."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0914_02.mp3"
     },
     "content": "The molecule featured in <image2> is ethyl butanoate. As detailed in <audio2>, ethyl butanoate is notable for its fruity scent and utility in flavorings. The ester formation from alcohol and acid provides a classic example of a functional group transformation in organic chemistry."
   }
@@ -17377,14 +17377,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0915_01.png",
-      "audio1": "The given structure represents a complex organic compound with a bicyclic framework and an acetamide group. Analyze its stereochemistry and functional groups."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0915_01.mp3"
     },
     "content": "Examine the molecular structure shown in <image1> and listen to the detailed analysis in <audio1>. Identify the chemical properties and functional groups present in the compound. Ensure the explanation includes one image and one audio for clarity."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0915_02.png",
-      "audio2": "This compound is a complex polycyclic molecule featuring both saturated and unsaturated carbon rings, as highlighted in <image2>. The acetamide group contributes to its reactivity and possible role in binding interactions. Proton NMR would reveal characteristic signals due to the hydrogens on these rings, as detailed in <audio2>."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0915_02.mp3"
     },
     "content": "The analysis of the molecular structure, including the acetamide group and bicyclic core, is depicted in <image2>. To further understand its chemical behavior, consider the described structural details in <audio2>."
   }
@@ -17396,14 +17396,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0916_01.png",
-      "audio1": "The compound shown contains a fluorobenzene ring, which influences the molecule's properties. Discuss how fluorinated aromatic systems can affect the pharmacokinetics of drugs."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0916_01.mp3"
     },
     "content": "Analyze the molecular structure depicted in <image1> and listen to <audio1> for insight into how aromatic fluorination impacts chemical properties. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0916_02.png",
-      "audio2": "The modification of fluorinated aromatic rings, as shown in the image, can enhance metabolic stability and modulate lipophilicity. This affects how drugs are absorbed, distributed, metabolized, and excreted in the body."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0916_02.mp3"
     },
     "content": "The structural alteration seen in <image2> exemplifies the fluorination strategy in medicinal chemistry. Refer to <audio2> for an explanation of its impact on pharmacokinetics."
   }
@@ -17415,14 +17415,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0917_01.png",
-      "audio1": "The image illustrates a complex organic molecule. Analyze the molecular geometry and identify functional groups present such as methoxy and nitro groups, considering hybridization and resonance effects."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0917_01.mp3"
     },
     "content": "Examine the molecular structure depicted in <image1> and listen to <audio1> to identify key functional groups and bonding patterns in the compound. Your explanation should be supported by an image and an audio clip."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0917_02.png",
-      "audio2": "The detailed analysis reveals that the molecule features aromatic rings and multiple substituents which allow for resonance stabilization. The ester and nitro groups are crucial for the molecule's reactivity. Observe the symmetry and planarity that contribute to its unique properties."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0917_02.mp3"
     },
     "content": "The compound is characterized by several functional groups providing diverse chemical properties. <image2> illustrates the spatial arrangement influencing reactivity, while <audio2> elaborates on the relationship between structure and function."
   }
@@ -17434,14 +17434,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0918_01.png",
-      "audio1": "The image shows a complex organic molecule with an aromatic ring, carboxylate group, and a sulfur atom. Describe the chemical structure and possible reactions or applications of this compound."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0918_01.mp3"
     },
     "content": "Examine the <image1> and listen to the <audio1>. What are the potential applications or reactions of this molecule based on its structure? Include an appropriate diagram and audio explanation in your response."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0918_02.png",
-      "audio2": "The depicted compound can undergo nucleophilic substitution reactions due to the presence of the electron-poor carbon atom adjacent to the sulfur. Potential applications include use as a pharmaceutical intermediate or in organic synthesis. The nitrogen in the amide group could also participate in hydrogen bonding, affecting solubility and reactivity."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0918_02.mp3"
     },
     "content": "The answer includes the updated structural diagram <image2> showing additional substituents, and an in-depth analysis of the molecule's reactions and applications is provided in the <audio2>."
   }
@@ -17453,14 +17453,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0919_01.png",
-      "audio1": "This structure represents a molecule with an aromatic ring and a tertiary amine group, common in pharmaceutical compounds. Consider its potential applications in drug design."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0919_01.mp3"
     },
     "content": "Analyze the chemical structure in <image1> and listen to the <audio1> to identify the likely pharmaceutical application of this molecule. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0919_02.png",
-      "audio2": "This molecule could be used as a basis for synthesizing antiviral medications due to its structure. The imidazole ring offers potential for strong binding to biological targets."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0919_02.mp3"
     },
     "content": "Based on the molecule's structure shown in <image2>, and considering the <audio2> information, the compound is likely intended for antiviral drug development."
   }
@@ -17472,14 +17472,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0920_01.png",
-      "audio1": "The molecular structure depicted is crucial for understanding the aromatic stability of this compound. Focus on the connectivity and the positioning of the functional groups, as they influence the compound's reactivity and interactions."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0920_01.mp3"
     },
     "content": "Analyze the chemical structure shown in <image1>. Explain how the connectivity and positioning of the functional groups affect the compound's properties. Reference <audio1> for additional guidance on functional group reactivity. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0920_02.png",
-      "audio2": "This molecule's aromatic rings contribute to its stability. The presence of certain functional groups can lead to potential hydrogen bonding, affecting solubility and chemical reactivity. Compare these aspects using structural analysis to understand the overall chemical behavior."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0920_02.mp3"
     },
     "content": "The provided molecular structure shows the importance of aromatic rings for stability. The chemical properties are influenced by the distribution and interaction of functional groups, as illustrated in <image2>. Listen to <audio2> for a detailed explanation of these interactions."
   }
@@ -17491,14 +17491,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0921_01.png",
-      "audio1": "This molecule features a fusion of aromatic and heterocyclic rings, and the connections indicate potential sites for nucleophilic substitution reactions."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0921_01.mp3"
     },
     "content": "Analyze the chemical structure depicted in <image1>, <audio1> and discuss the potential reaction mechanisms involved. Your answer must illustrate these mechanisms using one supporting image and provide further insight with one audio explanation. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0921_02.png",
-      "audio2": "The presence of electron-donating groups increases the reactivity of the aromatic system, facilitating electrophilic aromatic substitution. Additionally, the ester linkage depicted can undergo hydrolysis under acidic or basic conditions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0921_02.mp3"
     },
     "content": "The structure is analyzed in <image2>, which highlights the active sites for reactions. <audio2> elaborates on the chemical properties contributing to its reactivity, including substitution patterns and stability factors."
   }
@@ -17510,14 +17510,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0922_01.png",
-      "audio1": "This molecule is an amide and sulfonamide compound with potential biological activity. The structure features a lactam ring and an ether linkage which may influence its solubility."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0922_01.mp3"
     },
     "content": "Examine the <image1> to identify the functional groups present. Supplement your analysis with the <audio1> detailing their chemical significance. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0922_02.png",
-      "audio2": "The transformation involves acylation, resulting in the formation of a new amide link. Such modifications can alter the compound's physicochemical properties."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0922_02.mp3"
     },
     "content": "Observe <image2> to see the changes in molecular structure post-reaction. The <audio2> explains the reaction mechanism and its impact on the compound's properties."
   }
@@ -17529,14 +17529,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0923_01.png",
-      "audio1": "The chemical structure seen here represents a molecular compound known for its significant role in organic chemistry. Analyze the arrangement of functional groups and determine the potential reaction mechanisms it could undergo."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0923_01.mp3"
     },
     "content": "Examine the <image1> structure and listen to the <audio1> to explore how the molecule's structural characteristics inform its chemical behavior. Explain what similar chemical properties might appear in structurally related molecules, and ensure your answer includes one image and one audio description."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0923_02.png",
-      "audio2": "The molecule is characterized by its planar polycyclic aromatic structure which contributes to its chemical stability. Typical reactions include electrophilic aromatic substitution and potential amine-related interactions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0923_02.mp3"
     },
     "content": "The chemical properties of this molecule, as shown in <image2>, illustrate its ability to participate in electrophilic aromatic substitution reactions. Furthermore, <audio2> details the stability provided by the aromatic rings."
   }
@@ -17548,14 +17548,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0924_01.png",
-      "audio1": "The image displays a complex organic molecule involved in a unique intramolecular reaction. Focus on the structure's benzene rings and the roles the bromine atoms play in the reaction mechanism."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0924_01.mp3"
     },
     "content": "Analyze the chemical structure shown in <image1>, focusing on the bromine-substituted benzene rings. Listen to the description in <audio1> to understand the reaction mechanisms involved. The answer must include a different image and audio analysis to deepen the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0924_02.png",
-      "audio2": "This structure reveals the resulting stereochemistry after the reaction has taken place. Note how the bromine orientation changes, highlighting the reaction outcome."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0924_02.mp3"
     },
     "content": "The structure shown in <image2> represents the product after the reaction. By observing <audio2>, you can understand the changes in stereochemistry and the significance of bromine's position in influencing the reaction pathway."
   }
@@ -17567,14 +17567,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0925_01.png",
-      "audio1": "The image represents a complex molecule with a bicyclic structure. Note the significant functional groups leading to potential chemical reactions. This sterically hindered conformation plays a vital role in stability and reactivity."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0925_01.mp3"
     },
     "content": "Describe how the <image1> demonstrates the key structural elements of a complex organic molecule and explain the stability provided by such conformations with references from <audio1>. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0925_02.png",
-      "audio2": "In this representation, observe the influence of the bicyclic framework on molecular interactions. The highlighted stability arises primarily from its robust architecture, enabling selective reactivity. Such detailed structural insights lead to a deeper understanding of chemical processes."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0925_02.mp3"
     },
     "content": "The structural characteristics of the organic molecule depicted in <image2> illustrate its potential for selective reactivity. The audio further elaborates on how the bicyclic framework contributes to its chemical stability, as described in <audio2>."
   }
@@ -17586,14 +17586,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0926_01.png",
-      "audio1": "The image shows a molecular structure involving aromatic rings, a sulfonamide group, and a fluorine substituent. Consider how these features might influence the molecule's reactivity and potential applications in medicinal chemistry."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0926_01.mp3"
     },
     "content": "Analyze the chemical structure depicted in <image1> and discuss the significance of functional groups present in it. Refer to <audio1> for additional insights on molecular reactivity. Ensure your response includes both an image and an audio element for explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0926_02.png",
-      "audio2": "The presence of the sulfonamide group in the molecule is significant due to its role in pharmaceutical compounds, providing both stability and specific biological activity. The aromatic rings contribute to the overall planar structure, facilitating interactions with biological targets, and the fluorine atom can enhance metabolic stability."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0926_02.mp3"
     },
     "content": "The molecule shown in <image2> features key functional groups that contribute to its potential utility in drug design. The attached <audio2> explains how these groups influence pharmacological properties."
   }
@@ -17605,14 +17605,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0927_01.png",
-      "audio1": "This molecule contains a methoxy group attached to a carbonyl at one end, indicating an ester structure. The indole ring system suggests aromaticity and potential bioactivity. Why might this structure be significant in medicinal chemistry?"
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0927_01.mp3"
     },
     "content": "Examine the <image1> to identify functional groups and listen to the <audio1> for detailed analysis. Discuss the implications of the molecular structure in terms of potential applications and properties. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0927_02.png",
-      "audio2": "The presence of the indole ring is crucial as it often plays a role in binding interactions in biological environments. The ester group could influence solubility and permeability, impacting drug delivery. Such structures are explored for their pharmacological benefits."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0927_02.mp3"
     },
     "content": "The molecular structure depicted in <image2> provides insight into potential binding interactions. Listen to the <audio2> to understand the functional implications and relevance in drug discovery."
   }
@@ -17624,14 +17624,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0928_01.png",
-      "audio1": "The molecule shown in the image contains a thiazole ring, which is a common heterocyclic compound. It also includes ester and ether functional groups. Please analyze this structure and describe how these groups might influence its chemical properties."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0928_01.mp3"
     },
     "content": "Examine the molecule in <image1> and listen to the detailed description in <audio1>. Discuss the impact of the identified functional groups on the molecule’s reactivity and interactions. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0928_02.png",
-      "audio2": "The presence of the ester group, as seen in the image, can lead to hydrolysis reactions under acidic or basic conditions. Moreover, the thiazole ring offers potential sites for electrophilic substitution reactions due to its aromaticity. Listen to these structural properties and reaction opportunities."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0928_02.mp3"
     },
     "content": "In the chemical structure depicted in <image2>, note how the ester and thiazole groups contribute to potential reactions. Also, hear the detailed explanation in <audio2> regarding their roles in chemical reactivity and stability."
   }
@@ -17643,14 +17643,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0929_01.png",
-      "audio1": "Please describe the molecular structure shown in the image, focusing on the functional groups and their implications for solubility."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0929_01.mp3"
     },
     "content": "Examine the <image1> structure and listen to the <audio1>. Based on this information, explain how the presence of these functional groups might influence the chemical properties of the molecule. Provide one image and one audio in the answer to support your explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0929_02.png",
-      "audio2": "The molecule features hydroxyl and carboxyl groups which increase its polarity and potential solubility in water. The alkyl chain influences its hydrophobic character."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0929_02.mp3"
     },
     "content": "The <image2> illustrates the non-polar regions and their spatial relation to polar sites on the molecule. The <audio2> explains how these structural features affect its interaction with different solvents, influencing solubility and reactivity."
   }
@@ -17662,14 +17662,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0930_01.png",
-      "audio1": "The structure shown in the image is a complex organic molecule with multiple functional groups, including an amine and a methoxy group. Identify these features and discuss how they might affect the molecule's reactivity and potential applications."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0930_01.mp3"
     },
     "content": "Examine <image1> to identify the key functional groups present in the molecule. Use <audio1> to gain insights into the chemical properties and possible reactions involving this structure. The answer must include both one image and one audio to fully explore the molecule's characteristics."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0930_02.png",
-      "audio2": "The molecule contains a hexagonal aromatic ring system linked to a piperidine ring, enhancing its stability and affecting electron distribution. The methoxy group influences solubility and reactivity, while the amine makes it a potential site for protonation or other chemical interactions, as shown in the detailed molecular diagram."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0930_02.mp3"
     },
     "content": "The answer requires interpreting <image2> to understand the molecular framework. Utilize <audio2> to delve into interactions and chemical stability related to the structural components observed."
   }
@@ -17681,14 +17681,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0931_01.png",
-      "audio1": "The structure depicted shows a complex polycyclic molecule with multiple functional groups. The prominent feature is a phenolic group on the benzene ring which may participate in reactions such as electrophilic aromatic substitution."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0931_01.mp3"
     },
     "content": "Examine the chemical structure in <image1> and listen to the explanation in <audio1>. What is the impact of the aromatic hydroxyl group on the molecule's reactivity, and why is it significant in organic synthesis? The answer must include one image and one audio to support the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0931_02.png",
-      "audio2": "In the structure of this polycyclic molecule, the aromatic hydroxyl group increases electron density through resonance, making the ring more reactive towards electrophiles. This property is crucial for modifications in synthetic pathways leading to derivative compounds."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0931_02.mp3"
     },
     "content": "The reactivity of the aromatic hydroxyl group is enhanced by its electron-donating effect. This characteristic is key for various electrophilic reactions, contributing to the compound's utility in synthesis. See <image2> for a molecular depiction, and refer to <audio2> for detailed explanation."
   }
@@ -17700,14 +17700,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0932_01.png",
-      "audio1": "The image shows a beta-lactam structure, a key component in many antibiotics. Listen to understand the mechanism of action of these compounds."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0932_01.mp3"
     },
     "content": "Explain how the structure of beta-lactam shown in <image1> is crucial for its biological function. Please include an illustration and detailed explanation about the molecular interactions through <audio1>. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0932_02.png",
-      "audio2": "The mechanism involves the inhibition of bacterial cell wall synthesis by binding to penicillin-binding proteins. This prevents the cross-linking of the cell wall, leading to bacterial cell death."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0932_02.mp3"
     },
     "content": "The image <image2> illustrates the beta-lactam interacting with bacterial proteins, disrupting cell wall synthesis. Listen to <audio2> for a detailed explanation of this inhibitory process."
   }
@@ -17719,14 +17719,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0933_01.png",
-      "audio1": "The image shows a complex organic molecule featuring multiple rings and functional groups. Please explain how this structure might interact with biological systems or react in chemical processes."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0933_01.mp3"
     },
     "content": "Examine the chemical structure depicted in <image1> and listen to the audio description in <audio1> to gain insight into its potential reactivity and interactions. Based on this, explain how the molecule might be utilized in a biological or chemical context. Your answer must include one image and one audio that provide further elaboration on this concept."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0933_02.png",
-      "audio2": "The featured molecule in the image is often used in advanced organic synthesis and medicinal chemistry due to its aromatic rings and diverse functional groups which facilitate a range of reactions, such as nucleophilic substitution and hydrogen bonding."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0933_02.mp3"
     },
     "content": "The molecule shown in <image2> can interact with biological systems through its functional groups that enable hydrogen bonding and can undergo various chemical reactions. The audio, <audio2>, expands on its synthetic and medicinal applications, highlighting its importance in drug development."
   }
@@ -17738,14 +17738,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0934_01.png",
-      "audio1": "This audio describes the structural components and stereochemistry of the molecule, highlighting the functional groups and any chiral centers present."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0934_01.mp3"
     },
     "content": "Examine the <image1> carefully and listen to the accompanying <audio1> to identify the functional groups present and propose a potential reaction pathway involving these groups. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0934_02.png",
-      "audio2": "The reaction mechanism involves the transformation of the primary alcohol group into an aldehyde through oxidation. This audio further explains the conditions and catalysts necessary for this chemical conversion."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0934_02.mp3"
     },
     "content": "The potential reaction pathway involves the oxidation of one of the alcohol groups to form an aldehyde. Refer to <image2> for the reaction scheme, and listen to <audio2> for a detailed explanation of the chemical process."
   }
@@ -17757,14 +17757,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0935_01.png",
-      "audio1": "This molecule features a piperazine ring, which is a notable functional group in medicinal chemistry, often contributing to the molecule's solubility and receptor binding properties."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0935_01.mp3"
     },
     "content": "Examine <image1> to identify the molecular structure shown. Discuss the implications of the functional groups highlighted and describe their general properties. Ensure to include <audio1> in your answer for a comprehensive understanding. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0935_02.png",
-      "audio2": "The presence of the carbonyl group adjacent to the nitrogen allows the formation of an amide linkage, which is significant due to its stability and resonance properties in organic compounds."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0935_02.mp3"
     },
     "content": "The molecular structure, as shown in <image2>, includes an amide linkage which is crucial in peptide bond formation. This structural feature enhances the molecule's stability and is a common link in protein backbones. Listen to <audio2> for further explanation on how this linkage contributes to chemical stability."
   }
@@ -17776,14 +17776,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0936_01.png",
-      "audio1": "This image represents an organic molecule with methoxy and ester functional groups. To understand its reactivity, we will analyze its structural features."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0936_01.mp3"
     },
     "content": "Examine <image1> to identify the key functional groups present in the molecule. Use the molecular details discussed in <audio1> to explain how these groups might influence the molecule's chemical reactivity and potential applications. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0936_02.png",
-      "audio2": "In this molecule, the methoxy and ester groups play a significant role in determining solubility and reaction pathways. Their electronic effects can lead to nucleophilic attack or ester hydrolysis under specific conditions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0936_02.mp3"
     },
     "content": "The functional groups identified are methoxy and ester, which are illustrated in <image2>. As explained in <audio2>, these groups can participate in chemical reactions such as nucleophilic attack or hydrolysis, affecting the molecule's behavior in different environments."
   }
@@ -17795,14 +17795,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0937_01.png",
-      "audio1": "This molecule features a tertiary amine linked to aromatic rings and alcohol groups, which may influence its chemical properties and reactions."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0937_01.mp3"
     },
     "content": "Analyze the chemical structure of this compound shown in <image1>. Explain how the presence of tertiary amines and alcohol groups might affect its reactivity. Discuss this with the help of <audio1>. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0937_02.png",
-      "audio2": "The structure reveals possible formation of hydrogen bonds through the hydroxyl groups, which could increase solubility in water. The amine's position may affect its basicity."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0937_02.mp3"
     },
     "content": "The molecule's structure, depicted in <image2>, indicates potential hydrogen bonding capabilities due to the hydroxyl groups and variable basicity of the tertiary amine. Listen to <audio2> for a detailed analysis."
   }
@@ -17814,14 +17814,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0938_01.png",
-      "audio1": "This molecule involves complex interactions between multiple functional groups. Focus on the role of TMEDA in coordination chemistry and how it affects reaction pathways."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0938_01.mp3"
     },
     "content": "Analyze the structure shown in <image1> and listen to the explanation in <audio1>. Explain the likely transformation mechanisms in the given reaction conditions using the given audio and image. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0938_02.png",
-      "audio2": "The reaction initially involves the formation of a coordination complex facilitated by TMEDA. The subsequent steps likely involve nucleophilic substitution, as shown in the changes between the initial and final structures."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0938_02.mp3"
     },
     "content": "The provided transformation proceeds through coordination complex formation and nucleophilic substitution. Refer to <image2> for a detailed view of the final molecular structure and listen to <audio2> for an explanation of each step involved."
   }
@@ -17833,14 +17833,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0939_01.png",
-      "audio1": "This image shows a complex molecular structure including functional groups like methoxy, amine, and a halogenated alkyl chain. The distribution and nature of these groups influence the molecule's reactivity and interactions in chemical processes."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0939_01.mp3"
     },
     "content": "Analyze the <image1> to identify the role of functional groups in chemical reactivity, and explain how these groups affect molecular interactions based on <audio1>. Your answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0939_02.png",
-      "audio2": "In this structure, the methoxy group increases electron density through resonance, while the halogen adds polarity, enhancing the molecule's ability to participate in nucleophilic reactions. Such modifications can significantly alter the pharmacokinetics of medicinal compounds."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0939_02.mp3"
     },
     "content": "The <image2> illustrates how functional groups like methoxy and halogens modify chemical reactivity. Listen to <audio2> for a detailed explanation of how these changes affect the molecule's behavior in reactions."
   }
@@ -17852,14 +17852,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0940_01.png",
-      "audio1": "The image shows a chemical structure primarily composed of aromatic rings and an ether linkage. Notice the positioning of methoxy groups which play a critical role in determining the chemical reactivity and solubility. The substitution pattern on the phenyl rings can influence the electronic nature of the compound."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0940_01.mp3"
     },
     "content": "Examine the <image1> to identify the primary functional groups present. Use the <audio1> for details on how these groups may affect the compound's solubility. Your answer should include an image and an audio explanation to elaborate on any additional transformations or reactions."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0940_02.png",
-      "audio2": "The new chemical structure includes additional hydroxyl groups as shown, indicating an increase in polarity. This modification enhances water solubility and introduces potential sites for further chemical reactions, such as esterification or hydrogen bonding, leading to varied chemical applications."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0940_02.mp3"
     },
     "content": "The <image2> illustrates a modified compound with increased polarity due to new functional groups. Refer to the <audio2> for insights into how these changes impact solubility and potential chemical reactions."
   }
@@ -17871,14 +17871,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0941_01.png",
-      "audio1": "This image depicts a molecule with multiple functional groups. Can you identify the effects of these groups on the molecule's chemical reactivity and stability?"
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0941_01.mp3"
     },
     "content": "Analyze <image1> to identify the functional groups present and then listen to <audio1> for details on how these groups affect the molecule's properties. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0941_02.png",
-      "audio2": "The molecule contains ester, ether, and sulfonamide groups. The ester group may undergo hydrolysis, the ether is relatively stable, and the sulfonamide can provide enhanced solubility and reactivity. Each group contributes to the molecule's unique chemical behavior."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0941_02.mp3"
     },
     "content": "The sulfur atom bonded to oxygen suggests possible sulfonamide characteristics. View <image2> to see the molecular structure highlighting these groups. Listen to <audio2> for a detailed explanation of how these functional groups impact chemical reactivity and stability."
   }
@@ -17890,14 +17890,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0942_01.png",
-      "audio1": "The molecule shown in the image is an azo compound, characterized by the presence of a nitrogen-nitrogen double bond linking aromatic rings. Such compounds often display vivid colors due to extensive conjugation, which affects their light absorption properties."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0942_01.mp3"
     },
     "content": "Describe the chemical structure and potential applications of the compound shown in <image1>. Ensure your answer includes visual aids and audio, specifically utilizing one image and one audio to illustrate the explanation. <audio1>."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0942_02.png",
-      "audio2": "The structure displays an ether linkage between two aromatic azo groups, enhancing its stability. The terminal hydroxyl groups increase its solubility in water, making it applicable in dye industries for various textiles. The symmetry of the molecule contributes to its even distribution of charge."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0942_02.mp3"
     },
     "content": "The compound's potential applications span across dye manufacturing due to its vivid coloration properties. <image2> represents another perspective of the molecule, emphasizing its symmetric nature and ether linkages. <audio2>."
   }
@@ -17909,14 +17909,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0943_01.png",
-      "audio1": "The image shows a complex organic molecule with distinct functional groups. Identify the possible reactivity and transformations it might undergo."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0943_01.mp3"
     },
     "content": "Analyze the molecular structure depicted in <image1> and listen carefully to <audio1> to discuss the potential chemical reactions it may participate in. The answer must include one image and one audio to illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0943_02.png",
-      "audio2": "The molecule contains amide and ketone groups, which are reactive sites for nucleophilic substitution and additions. It may also undergo cyclization due to the aromatic ring."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0943_02.mp3"
     },
     "content": "<image2> provides an alternative molecular view highlighting potential sites for reaction. Listen to <audio2> for detailed explanations of the possible chemical transformations and mechanisms."
   }
@@ -17928,14 +17928,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0944_01.png",
-      "audio1": "The image displays a complex organic molecule with multiple rings and functional groups. Can you explain the presence of a cyclohexane ring and its connection to other structural elements in <image1>?"
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0944_01.mp3"
     },
     "content": "Describe the significance of the structural features and functional groups seen in <image1> using detailed audio insights present in <audio1>. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0944_02.png",
-      "audio2": "The second image elucidates the rearrangement of the cyclic structure and highlights how it affects molecular reactivity and stability. Focus on the carboxylic acid group, which is positioned to alter the molecule's properties profoundly in <image2>."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0944_02.mp3"
     },
     "content": "In response, examine the reconfiguration observed in <image2>, focusing on the carboxylic acid's role and its impact on the molecule's stability. Use the insights provided in <audio2> for a comprehensive understanding."
   }
@@ -17947,14 +17947,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0945_01.png",
-      "audio1": "This image represents a molecule with a hydroxyl group, indicating it could be an alcohol. Listen to understand how the structure influences its chemical properties."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0945_01.mp3"
     },
     "content": "Analyze the molecular structure shown in <image1> and consider the functional group present. Use <audio1> to evaluate how the hydroxyl group impacts the molecule's properties and reactivity. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0945_02.png",
-      "audio2": "The molecular structure indicates a cyclohexanol derivative. The hydroxyl group enables hydrogen bonding, substantially affecting solubility and boiling point. Structurally, it allows for potential oxidation to form a ketone."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0945_02.mp3"
     },
     "content": "The analysis of the chemical structure identifies it as cyclohexanol. The presence of a hydroxyl group in <image2> facilitates hydrogen bonding, impacting physical properties significantly. Listen to <audio2> for detailed implications of these properties and potential chemical reactions involving this alcohol."
   }
@@ -17966,14 +17966,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0946_01.png",
-      "audio1": "The molecule shown is likely an ether, characterized by an oxygen atom bonded to two alkyl groups. This structure can influence its reactivity and physical properties."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0946_01.mp3"
     },
     "content": "Explain the structural features and potential reactivity of the molecule shown in <image1>. Use chemical terminology in your response. Additionally, provide an audio explanation detailing the functional groups and molecular geometry, as represented in <audio1>. Ensure your answer includes one image and one audio to fully illustrate your explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0946_02.png",
-      "audio2": "This image displays isobutyl methyl ether. The ether group consists of an oxygen atom connected to an isobutyl group on one side and a methyl group on the other. Ethers generally have lower boiling points compared to alcohols due to the absence of hydrogen bonding. Their non-polar nature makes them suitable as solvents for many organic reactions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0946_02.mp3"
     },
     "content": "The molecule depicted in <image2> is isobutyl methyl ether. Its characteristic ether bond affects its chemical behavior. The <audio2> describes the molecular structure and properties, emphasizing the oxygen's role in connecting different carbon chains."
   }
@@ -17985,14 +17985,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0947_01.png",
-      "audio1": "This compound appears to be a complex organic molecule with multiple functional groups. Analyze the structural features and potential reactivity based on the highlighted ester groups."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0947_01.mp3"
     },
     "content": "Examine the structure shown in <image1> and listen to the detailed description in <audio1>. Identify the key functional groups and predict the potential chemical reactions it might undergo. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0947_02.png",
-      "audio2": "The image shows an ester and an aromatic nitro group. Esters typically undergo hydrolysis, while nitro groups are reduced in reactions. Pay attention to how these groups are connected."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0947_02.mp3"
     },
     "content": "Based on <image2> and the explanation in <audio2>, the primary functional groups include esters and a nitro group. Esters can participate in nucleophilic acyl substitution, while the nitro group could undergo reduction reactions."
   }
@@ -18004,14 +18004,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0948_01.png",
-      "audio1": "This compound features a five-membered lactam ring with a methyl group attached to the nitrogen atom. Its structure is crucial for understanding its reactivity and chemical behavior."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0948_01.mp3"
     },
     "content": "Analyze the molecular structure shown in <image1> and explain the significance of the methyl group on reactivity with the help of <audio1>. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0948_02.png",
-      "audio2": "The reaction mechanism involves nucleophilic attack facilitated by the electron-donating methyl group. This contributes to the compound's ability to participate in various organic syntheses effectively."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0948_02.mp3"
     },
     "content": "The answer involves understanding how the methyl group in <image2> enhances nucleophilicity which is illustrated by <audio2>, aiding in reaction mechanisms common in organic chemistry."
   }
@@ -18023,14 +18023,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0949_01.png",
-      "audio1": "This chemical structure is characterized by the presence of a central indole core, which is significant in many natural products and pharmaceuticals."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0949_01.mp3"
     },
     "content": "Analyze the molecular structure seen in <image1>. Describe the chemical significance of the <audio1> in relation to its application in medicine. Include one image and one audio in your answer to support your explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0949_02.png",
-      "audio2": "The molecular structure diagram illustrates extended conjugation around the central indole, enhancing binding affinity in biological systems."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0949_02.mp3"
     },
     "content": "The depicted molecule, as shown in <image2>, is integral in binding interactions due to its complex conjugated system. The <audio2> further elaborates on this phenomenon."
   }
@@ -18042,14 +18042,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0950_01.png",
-      "audio1": "Examine the chemical reaction involving trifluoromethanesulfonic anhydride and isopropanol, which is conducted over seven hours. <image1> depicts the molecular structure involved in this process."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0950_01.mp3"
     },
     "content": "Describe the mechanism and expected products of the reaction between trifluoromethanesulfonic anhydride and the substrate shown in <image1>. Simultaneously, provide an analysis of this transformation using the supplementary description from <audio1>. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0950_02.png",
-      "audio2": "The reaction proceeds through an acylation mechanism resulting in the formation of a cyclic amide product, as illustrated in <image2>. This is facilitated by the activation of the hydroxyl group by the trifluoromethanesulfonic anhydride. The reaction conditions favor the closure of the ring structure, generating the final compound. Refer to <audio2> for a detailed explanation of the mechanistic steps and the role of each reagent."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0950_02.mp3"
     },
     "content": "The reaction results in a cyclized product where the active site of the initial molecule undergoes acylation, depicted in <image2>. This transformation is driven by the catalytic action described in <audio2>, highlighting the reactivity of the trifluoromethanesulfonate in promoting ring closure and stabilization of the compound."
   }
@@ -18061,14 +18061,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0951_01.png",
-      "audio1": "The compound shown in the image is characterized by a long hydrocarbon chain ending with a sulfonic acid group. Listen to the explanation of its structural features and potential reactivity."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0951_01.mp3"
     },
     "content": "Analyze the functional group present in <image1> and discuss its potential reactivity, ensuring to include detailed descriptions found in <audio1>. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0951_02.png",
-      "audio2": "This image illustrates the sulfonation reaction of the long-chain hydrocarbon. The transformation involves the attack of the sulfonic acid group on another molecule, leading to the formation of a sulfonate ester, as shown in the diagram."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0951_02.mp3"
     },
     "content": "The analysis involves identifying the sulfonic acid group, a key site for reactivity. The functional group can participate in reactions such as sulfonation, depicted in <image2>. The process and products of such reactions are explained in <audio2>."
   }
@@ -18080,14 +18080,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0952_01.png",
-      "audio1": "The image depicts a chemical compound illustrating its molecular structure. Tin (Sn) is central in this molecule, which has multiple alkyl groups attached. Such organotin compounds are typically used in PVC stabilization, biocides, and catalytic applications."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0952_01.mp3"
     },
     "content": "How does the molecular structure of the compound in <image1> contribute to its chemical properties? Discuss with reference to <audio1>. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0952_02.png",
-      "audio2": "The second image shows critical alterations to the compound structure that can enhance its reactivity and effectiveness in targeted applications. These changes affect the compound's electron distribution and steric factors, influencing its reactivity in catalytic processes."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0952_02.mp3"
     },
     "content": "The chemical properties of the molecule depicted in <image2> are heavily influenced by the organotin centers and surrounding alkyl groups. As explained in <audio2>, adjustments to the alkyl chains can enhance these properties by modifying steric and electronic characteristics."
   }
@@ -18099,14 +18099,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0953_01.png",
-      "audio1": "The image depicts a complex organic molecule. Discuss its potential reactions and functional groups, particularly focusing on the amide linkage and any aromatic characteristics."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0953_01.mp3"
     },
     "content": "Analyze the structure shown in <image1> and explain the potential chemical reactions this molecule might undergo using the information provided in <audio1>. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0953_02.png",
-      "audio2": "The transformation shown involves hydrolization of the amide bond. The product image illustrates a shift to a carboxylic acid derivative, emphasizing changes around the aromatic and amide groups."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0953_02.mp3"
     },
     "content": "The structure has undergone a significant transformation from an amide to a carboxylic acid derivative as illustrated in <image2>. This is due to the hydrolysis of the amide bond as explained in <audio2>, where water molecules break the carbon-nitrogen bond, converting it into a more reactive carboxylic acid."
   }
@@ -18118,14 +18118,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0954_01.png",
-      "audio1": "The image shows a phthalide derivative with fluorination on the aromatic ring. Phthalides are known for their lactone ring and are key intermediates in synthesis. Note the specific fluorine substitution which affects the chemical properties such as electronegativity and metabolism."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0954_01.mp3"
     },
     "content": "Examine the <image1> provided and listen to the <audio1> description to explain how fluorination in phthalide derivatives influences their chemical properties and potential applications, especially considering electronic effects. Your answer must include one image and one audio to support the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0954_02.png",
-      "audio2": "The depicted fluorinated phthalide affects the compound's electronic distribution, enhancing its stability and reactivity profile in synthesis applications. Fluorination can improve the pharmacokinetics of a compound, making it desirable in drug development."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0954_02.mp3"
     },
     "content": "Fluorination in phthalide derivatives, as shown in the <image2>, significantly enhances the compound's chemical properties. The influence on electron density and reactivity makes these derivatives valuable in synthetic chemistry. The <audio2> provides additional insights into its applications in pharmaceuticals."
   }
@@ -18137,14 +18137,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0955_01.png",
-      "audio1": "Observe the structure shown in this image. It is crucial to analyze the bonding patterns, especially focusing on the nitrogen atoms involved and their hybridization states."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0955_01.mp3"
     },
     "content": "Examine the molecular structure displayed in <image1> and listen to the detailed explanation in <audio1>. Based on this information, predict the possible reaction pathway involving the compound shown, emphasizing the role of functional groups. Your answer must include one image and one audio to illustrate your explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0955_02.png",
-      "audio2": "The reaction pathway likely involves nucleophilic attack at the carbonyl carbon, followed by elimination. The presence of aromatic rings stabilizes intermediates via resonance, facilitating complex formation."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0955_02.mp3"
     },
     "content": "The proposed reaction mechanism involves initial nucleophilic attack, leading to an intermediate state. This process is elucidated in <image2>, and further explained in the <audio2> portion."
   }
@@ -18156,14 +18156,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0956_01.png",
-      "audio1": "This image depicts a compound with a benzofuran structure and an ester linkage. The benzofuran core is composed of a fused benzene and furan ring, which are often involved in various biological activities. The ester linkage connects it to an aromatic thiazole ring. These functional groups are significant in pharmacology, influencing the compound's reactivity and stability."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0956_01.mp3"
     },
     "content": "Examine the structural features of <image1> and listen to the details in <audio1>. What chemical transformations can this molecule undergo, and what products are typically formed? Your answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0956_02.png",
-      "audio2": "The compound can undergo hydrolysis of the ester linkage, resulting in the formation of a carboxylic acid and an alcohol. The benzofuran's stability during this transformation is critical. The presence of the thiazole may also play a role in facilitating specific pathways, such as nucleophilic aromatic substitution, which is often used in synthetic chemistry for drug modification."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0956_02.mp3"
     },
     "content": "The hydrolysis reaction of this molecule breaks the ester bond, as shown in <image2>, resulting in a carboxylic acid and an alcohol. Listen to <audio2> for a detailed explanation of the reaction mechanism and the roles of various functional groups."
   }
@@ -18175,14 +18175,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0957_01.png",
-      "audio1": "This molecule contains an isoxazole ring, which is a five-membered aromatic ring with one nitrogen and one oxygen atom adjacent to each other. This structure is important for various biological activities."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0957_01.mp3"
     },
     "content": "Analyze the molecular structure shown in <image1> and listen to <audio1>. Explain the potential reactions this molecule may undergo and include one image and one audio in the answer to support your explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0957_02.png",
-      "audio2": "The isoxazole ring can participate in nucleophilic substitution reactions due to the presence of both nitrogen and oxygen, which can lend electronic properties conducive to such reactions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0957_02.mp3"
     },
     "content": "The molecular structure analyzed in this task is an isoxazole derivative. Referring to <image2>, this molecule may undergo nucleophilic substitution reactions. As emphasized in <audio2>, the electronic nature of the isoxazole ring makes it favorable for specific chemical reactions."
   }
@@ -18194,14 +18194,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0958_01.png",
-      "audio1": "The compound shown in the image is a complex organic molecule with multiple functional groups. Notice the presence of two chlorine atoms on the benzene ring. This configuration may indicate potential bioactivity."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0958_01.mp3"
     },
     "content": "Examine the molecular structure in <image1> and listen to <audio1>. Analyze the functional groups and structural components that may contribute to the chemical reactivity of the compound. The answer must include one image and one audio for thorough explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0958_02.png",
-      "audio2": "This molecule is likely involved in a substitution reaction, where the presence of electron-withdrawing groups such as chlorines enhances the reactivity of the molecule towards nucleophilic attack. The sulfonamide group is crucial in mediating interactions within biological systems."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0958_02.mp3"
     },
     "content": "Based on <image2> and <audio2>, the molecule's reactivity is significantly influenced by its functional groups, particularly the electron-withdrawing and donating groups. Understanding this interplay is key to predicting chemical behavior."
   }
@@ -18213,14 +18213,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0959_01.png",
-      "audio1": "The image shows a complex organic molecule with multiple functional groups. Please describe the types of reactions this molecule might undergo and illustrate your explanation with the provided image and audio."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0959_01.mp3"
     },
     "content": "Examine the structure shown in <image1> and listen to the detailed description in <audio1>. Describe potential reactions and interactions highlighting key functional groups in the chemical structure. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0959_02.png",
-      "audio2": "This compound, featuring hydroxyl, amide, and aromatic groups, could participate in reactions such as esterification and substitution. The aromatic ring may undergo electrophilic substitution, while the amide linkage is involved in peptide bond formation."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0959_02.mp3"
     },
     "content": "The discussed molecule, represented in <image2>, is likely to participate in a variety of chemical reactions. Listen to <audio2> for a comprehensive analysis of its reactive tendencies and chemical behavior."
   }
@@ -18232,14 +18232,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0960_01.png",
-      "audio1": "This image depicts a complex molecule with multiple functional groups including ester and hydroxyl groups. These groups play a critical role in the molecule's chemical reactivity and biologic activity, influencing both physical properties and interactions with other molecules."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0960_01.mp3"
     },
     "content": "Analyze the structural features of the molecule shown in <image1> and explain the roles of its functional groups. Please ensure the answer integrates both <image1> and <audio1> in the explanation. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0960_02.png",
-      "audio2": "The molecule contains ester linkages which are crucial for forming ring structures, contributing to its stability and potential bioactivity. The hydroxyl group increases polarity and can participate in hydrogen bonding, affecting solubility and molecular interactions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0960_02.mp3"
     },
     "content": "The molecule in <image2> shows repeating ester functional groups, forming a macrolide structure. These linkages are essential for its stability and interaction with biological targets. Moreover, <audio2> explains that the presence of a hydroxyl group enhances its solubility and reactivity in biological systems."
   }
@@ -18251,14 +18251,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0961_01.png",
-      "audio1": "This molecule illustrates the structure of adenosine triphosphate, commonly known as ATP. It includes a nucleotide with a ribose sugar, a nitrogenous base known as adenine, and three phosphate groups. The key component here is the potential for energy release through hydrolysis of the phosphate bonds."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0961_01.mp3"
     },
     "content": "Describe the chemical reactions involved in the energy release from <image1>. The explanation should include <audio1> to provide a comprehensive understanding of the molecular structure and its function. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0961_02.png",
-      "audio2": "ATP undergoes a process called hydrolysis, where water is used to break the bond between the outer phosphate group and the rest of the molecule. This reaction releases energy, which is then utilized by the cell for various processes such as muscle contraction, protein synthesis, and active transport."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0961_02.mp3"
     },
     "content": "The energy release from the molecule is a result of breaking the phosphate bond, as depicted in <image2>. The process of hydrolysis is crucial, and <audio2> elaborates on how this mechanism provides energy for cellular activities."
   }
@@ -18270,14 +18270,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0962_01.png",
-      "audio1": "The image shows a series of reaction steps involving various reagents and solvents such as HOBt, benzene, and NaOH. The focus is on understanding the chemical transformations depicted."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0962_01.mp3"
     },
     "content": "Examine the chemical reaction sequence depicted in <image1>. Listen to <audio1> for detailed explanations of each reagent's role and the significance of the solvent environments in the reactions. Based on this, what changes occur in the structure or function of the compound throughout these steps? The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0962_02.png",
-      "audio2": "The sequence involves the transformation of an ethyl ester through various steps, ultimately affecting the ester linkage. Each reaction is crucial, initiating different interactions and leading to a modified molecular structure."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0962_02.mp3"
     },
     "content": "The structural changes are illustrated in <image2>, where the molecular transformation is clearly visible. Listen to <audio2> for a comprehensive analysis of how each step influences the functionalities within the molecule."
   }
@@ -18289,14 +18289,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0963_01.png",
-      "audio1": "The molecule depicted in the image is a complex organic compound containing various functional groups such as bromine at the position on the furan ring. Note the amide linkage connecting the furan ring to another heterocyclic structure which is characteristic of pharmaceutical compounds."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0963_01.mp3"
     },
     "content": "Analyze the structure shown in <image1> and describe the role of each functional group in its chemical properties. Support your description with relevant information from <audio1>. Ensure your answer incorporates one image and one audio element."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0963_02.png",
-      "audio2": "In this image, the transformation of the molecule involves the substitution of the bromine atom with a different group, altering its reactivity and interaction with biological targets. This substitution is a critical step in modifying the compound's pharmacological properties."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0963_02.mp3"
     },
     "content": "The image in <image2> illustrates a common reaction mechanism where a halogen group is replaced to enhance bioactivity. The <audio2> provides insights into how this structural change impacts the molecule's chemical behavior and its potential applications."
   }
@@ -18308,14 +18308,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0964_01.png",
-      "audio1": "This is a complex molecular structure featuring multiple rings. The stability of such molecules is often influenced by steric and electronic factors."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0964_01.mp3"
     },
     "content": "Examine the <image1> structure and provide an analysis of how the molecular configuration affects its chemical stability. Support your answer with an explanation of steric and electronic effects in <audio1>. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0964_02.png",
-      "audio2": "The image illustrates a rearrangement process where steric hindrance is minimized, and resonance stabilization plays a crucial role in enhancing stability."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0964_02.mp3"
     },
     "content": "The <image2> structure demonstrates a rearrangement that reduces steric hindrance. Resonance effects also contribute to the molecule's enhanced stability, as explained in <audio2>."
   }
@@ -18327,14 +18327,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0965_01.png",
-      "audio1": "The presented molecule is an intricate structure involving multiple aromatic rings and heteroatoms. The functional groups present, including bromine and amide linkages, suggest potential biological activity. Analyze how this molecule might interact in a biological system."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0965_01.mp3"
     },
     "content": "Examine the chemical structure shown in <image1> and explain its functional groups and potential reactivity. Use <audio1> for detailed descriptions. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0965_02.png",
-      "audio2": "This image depicts the detailed molecular interactions between the functional groups. The reactivity centers, such as the bromine atom, play crucial roles in halogen bonding and electronic effects in chemical reactions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0965_02.mp3"
     },
     "content": "The molecule in <image2> illustrates key areas of reactivity, including the interactions involving the halogen group and amide linkages. Based on <audio2>, these structural features may contribute to the molecule's stability and biological functionality."
   }
@@ -18346,14 +18346,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0966_01.png",
-      "audio1": "The amino acid shown in the image is crucial for forming disulfide bonds in proteins, which help stabilize their structures. Consider how this amino acid participates in protein folding and stability."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0966_01.mp3"
     },
     "content": "Describe the role of the amino acid depicted in <image1> within protein structures and explain this role using <audio1>. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0966_02.png",
-      "audio2": "The formation of disulfide bridges is a key function of this amino acid in maintaining the three-dimensional structure of proteins. These bridges form between the sulfur atoms of cysteine residues, stabilizing the protein."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0966_02.mp3"
     },
     "content": "The molecule shown in <image2> highlights the sulfur linkage crucial for disulfide bridge formation, as detailed in <audio2>. This linkage plays a fundamental role in protein structure integrity across different biological systems."
   }
@@ -18365,14 +18365,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0967_01.png",
-      "audio1": "This audio describes the reaction process involving trifluoromethanesulfonic anhydride and isopropanol that transforms the initial compound over a span of 10 hours."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0967_01.mp3"
     },
     "content": "Examine the chemical reaction depicted in <image1> and analyze the steps involved in the transformation of the compound using the reagents mentioned. For a comprehensive understanding, refer to the detailed reaction process described in <audio1>. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0967_02.png",
-      "audio2": "The audio explains the final molecular structure after the reaction, highlighting the formation of key functional groups and potential applications of the resultant compound."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0967_02.mp3"
     },
     "content": "The final product of the reaction is illustrated in <image2>, showing the resulting molecular structure. As described in <audio2>, the reaction highlights significant transformations leading to the creation of essential functional groups."
   }
@@ -18384,14 +18384,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0968_01.png",
-      "audio1": "This molecule is a nitroimidazole derivative, commonly used in pharmaceuticals, known for its antimicrobial properties. The nitro group attached to the imidazole is key in its biological activity."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0968_01.mp3"
     },
     "content": "Examine the molecular structure shown in <image1> and listen to the accompanying explanation in <audio1>. Describe how the structural features contribute to the molecule's chemical properties and potential reactivity. Your answer should use the information from one image and one audio to support the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0968_02.png",
-      "audio2": "The nitro group is highly electronegative, making the molecule polar and more reactive towards nucleophiles. This increases its ability to interfere with microbial cell processes, which is why it's effective as an antimicrobial agent."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0968_02.mp3"
     },
     "content": "The molecule in <image2> illustrates this by showing how the nitro group interacts with potential reactants. Listen to the audio in <audio2> for a detailed explanation on the role of electronegativity and polarity in enhancing antimicrobial effectiveness."
   }
@@ -18403,14 +18403,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0969_01.png",
-      "audio1": "The image1 illustrates a long-chain alkyl bromide, specifically 1-bromodecane. Describe its chemical properties and potential reactions with nucleophiles. Supplement your answer with image and audio."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0969_01.mp3"
     },
     "content": "Analyze the molecular structure seen in <image1> to discuss the reactivity of alkyl bromides like 1-bromodecane in substitution reactions. Explain why such a molecule is susceptible to nucleophilic attack, using detailed chemical reasoning along with <audio1>. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0969_02.png",
-      "audio2": "In the substitution reaction involving 1-bromodecane, the bromine atom can be a leaving group, allowing a nucleophile to attack and replace it. This results in the formation of a new compound, where R represents a generic nucleophile."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0969_02.mp3"
     },
     "content": "The 1-bromodecane molecule seen in the output <image2> can undergo nucleophilic substitution reactions effectively. The long carbon chain provides stability, while the bromine acts as a good leaving group. Detailed analysis can be heard in <audio2>."
   }
@@ -18422,14 +18422,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0970_01.png",
-      "audio1": "The image shows a complex organic structure involving multiple hydroxyl groups and amine linkages. It suggests a condensation reaction forming a bigger molecule. Focus on how the functional groups are interacting."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0970_01.mp3"
     },
     "content": "Analyze the molecular structure illustrated in <image1>. Explain how the reaction might proceed, specifically detailing the roles of different functional groups. Use <audio1> to describe the chemical processes involved. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0970_02.png",
-      "audio2": "The resulting compound shows an extended conjugated system, likely due to the dehydration synthesis between hydroxyl and amine groups. Note how the electronic structure has stabilized, which you can see reflected in the overall molecular arrangement."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0970_02.mp3"
     },
     "content": "The expected outcome of the reaction is shown in <image2>, where the conjugated system is extended. The condensation reaction leads to the removal of water, consolidating the molecular structure. <audio2> further elaborates on the reaction mechanism and stability of the compounds formed."
   }
@@ -18441,14 +18441,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0971_01.png",
-      "audio1": "This molecule contains various functional groups, including esters and amides, which are crucial for its reactivity and potential applications."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0971_01.mp3"
     },
     "content": "Analyze the chemical structure represented by <image1> and discuss the significance of its functional groups, incorporating the details provided in <audio1>. Your answer must include both an image and audio to support and illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0971_02.png",
-      "audio2": "The molecule's two ester groups contribute to its potential reactivity in hydrolysis reactions, while the amide functional group within the structure influences its stability and interactions with other molecules."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0971_02.mp3"
     },
     "content": "The chemical structure showcases two ester groups which can undergo reactions such as hydrolysis, as depicted in <image2>. Moreover, <audio2> explains that the presence of the amide group affects the molecule's overall stability and molecular interactions."
   }
@@ -18460,14 +18460,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0972_01.png",
-      "audio1": "This image depicts a complex organic molecular structure featuring multiple aromatic rings and alkyl chains. Identify the functional groups present and their significance in terms of chemical reactivity."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0972_01.mp3"
     },
     "content": "Examine the molecular structure shown in <image1>. Listen to the detailed explanation in <audio1> and determine the types of chemical bonds present. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0972_02.png",
-      "audio2": "This molecule contains several aromatic systems, which contribute to electronic delocalization, influencing its stability. Additionally, the presence of alkyl chains affects the molecule's hydrophobic interactions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0972_02.mp3"
     },
     "content": "The molecular structure involves aromatic rings connected by alkyl chains, which are critical for the molecule's stability and reactivity. The significance of these features is highlighted by examining <image2> and the explanation provided in <audio2>."
   }
@@ -18479,14 +18479,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0973_01.png",
-      "audio1": "The image shows a molecule with a thallium atom bonded to a cluster of atoms that includes oxygen and a methyl group. The thallium is central to the structure, influencing the overall molecular geometry and electron distribution."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0973_01.mp3"
     },
     "content": "Analyze the molecular structure depicted in <image1> and describe the potential electronic interactions occurring in the compound. Include an auditory description of the molecular geometry and the role of the central thallium atom as depicted in <audio1>. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0973_02.png",
-      "audio2": "This image illustrates the ionic interaction between thallium and an acetic acid derivative, highlighting the resonance structures that stabilize the complex. The oxygen atoms create a coordination environment around thallium, affecting its oxidation state and reactivity."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0973_02.mp3"
     },
     "content": "The molecular interaction involves a coordination complex where the thallium atom is bonded with oxygen, forming a stable ionic compound. The <image2> provides a view of how these bonds create resonance structures that stabilize the molecule. <audio2> explains the chemical interactions between the thallium and surrounding atoms, emphasizing the importance of resonance in stabilizing the compound."
   }
@@ -18498,14 +18498,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0974_01.png",
-      "audio1": "The compound shown in the image includes a triazole ring bonded to a benzene ring and an ester group. The nitrogen atoms within the triazole contribute to its nucleophilic characteristics, important in substitution reactions."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0974_01.mp3"
     },
     "content": "Analyze the molecular structure depicted in <image1>. Use <audio1> to support your explanation of the chemical properties and possible reactions. Your answer should include one image and one audio to illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0974_02.png",
-      "audio2": "The transformation in the structure shows the conversion of the ester group to a carboxylic acid, possibly through hydrolysis. This change affects the acidity and solubility of the compound, reflecting its altered chemical behavior."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0974_02.mp3"
     },
     "content": "The answer is presented with <image2> illustrating the structural changes. In <audio2>, we discuss the chemical conversions and their impact on the compound's properties."
   }
@@ -18517,14 +18517,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0975_01.png",
-      "audio1": "The depicted compound is an amide derived from benzoic acid, with the addition of an amine group. Note the planar structure typical of aromatic compounds."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0975_01.mp3"
     },
     "content": "Examine the <image1> for its structural features and listen to the <audio1> for detailed molecular insights. Describe the primary functional groups present and explain the significance of aromaticity. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0975_02.png",
-      "audio2": "This compound includes an aromatic ring, contributing to its stability. The amide linkage is formed between the carbonyl group and the nitrogen atom, highlighting typical resonance structures."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0975_02.mp3"
     },
     "content": "The primary functional groups in this compound are an amide linkage and an aromatic benzene ring. The <image2> illustrates the compound's structural stability due to resonance, while the <audio2> provides detailed explanations of the interactions and electronic configurations contributing to the compound's aromatic character."
   }
@@ -18536,14 +18536,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0976_01.png",
-      "audio1": "This image shows a pyrimidine derivative. The presence of the piperidine ring attached via an ethylene bridge suggests potential interactions with biological receptors due to its hydrogen bonding capacity and basic nitrogen atom."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0976_01.mp3"
     },
     "content": "Analyze the chemical structure shown in <image1> and explain how the presence of specific functional groups might influence the compound's solubility and reactivity. Include relevant details from <audio1> in your response. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0976_02.png",
-      "audio2": "The image features a similar pyrimidine structure, highlighting the ester functional group which increases solubility in organic solvents. The basicity of the nitrogen in the piperidine also affects the molecule's ionic character and reactivity in acidic conditions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0976_02.mp3"
     },
     "content": "This compound features functional groups that enhance its solubility and reactivity. The ester group shown in <image2> increases solubility in non-polar environments, while the nitrogen in the piperidine affects reactivity in acidic media. <audio2> provides a detailed breakdown of these chemical properties."
   }
@@ -18555,14 +18555,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0977_01.png",
-      "audio1": "The compound shown here is a complex organic molecule featuring multiple functional groups including sulfonic acid, amide, and ether linkages. Examine how these functional groups might influence the molecular interactions and stability."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0977_01.mp3"
     },
     "content": "Analyze the chemical structure displayed in <image1> and listen to the <audio1> for detailed information on its functional groups. Explain how these features might impact the molecule's reactivity and potential applications. The answer must use another image and an audio explanation to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0977_02.png",
-      "audio2": "This structure reveals stabilizing interactions such as hydrogen bonding and ionic interactions. These functional groups contribute to the molecule's solubility and might enhance its role in pharmaceuticals as potential binding sites to various biological targets."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0977_02.mp3"
     },
     "content": "The functional groups identified significantly affect the molecule's properties, enhancing its solubility and stability. The <image2> highlights potential applications in drug design owing to these interactions. Additionally, the <audio2> elaborates on the possible biological implications and chemical behavior of these groups."
   }
@@ -18574,14 +18574,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0978_01.png",
-      "audio1": "This audio describes the structural details and functional groups present in the complex organic molecule depicted. It highlights key features such as the aromatic rings and the presence of nitrogen atoms, which may suggest certain chemical behaviors and properties."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0978_01.mp3"
     },
     "content": "Examine the <image1> and listen to the <audio1>. Explain the chemical significance of this molecular structure and predict its possible interactions or reactions. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0978_02.png",
-      "audio2": "This audio provides a thorough analysis of the chemical properties and potential reactivity of the molecule shown. It elaborates on how the molecular elements such as the nitrogen-containing heterocycle and phenyl group affect the compound’s behavior in various chemical environments."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0978_02.mp3"
     },
     "content": "The molecular structure illustrated in <image2> reveals complex characteristics typical of aromatic compounds with potential biological activity. As noted in <audio2>, the molecule's heterocyclic systems could engage in specific interactions, influencing its reactivity and possible applications in pharmaceuticals."
   }
@@ -18593,14 +18593,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0979_01.png",
-      "audio1": "The structure depicted here is a lactam, a cyclic amide that results from the condensation of an amino acid. The nitrogen atom in the lactam ring forms part of the amide group, which is crucial in defining its chemical reactivity, particularly in its ability to participate in nucleophilic acyl substitution reactions."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0979_01.mp3"
     },
     "content": "Describe the chemical structure shown in <image1> and provide an explanation of its reactivity through an audio narrative in <audio1>. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0979_02.png",
-      "audio2": "Lactams are significant in organic chemistry due to their presence in pharmaceuticals. The reactivity of the structure involves opening and closing of the lactam ring, which can be facilitated under acidic or basic conditions, making it a versatile intermediate in synthetic routes."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0979_02.mp3"
     },
     "content": "The chemical structure illustrated in <image2> is another form of lactam, showcasing its versatile reactivity pattern. This includes transformations that are essential in synthesizing complex molecules in medicinal chemistry. <audio2> elaborates on the specific conditions under which this structure reacts."
   }
@@ -18612,14 +18612,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0980_01.png",
-      "audio1": "The structure depicted in this image shows a complex organic molecule. Pay attention to the functional groups present, particularly the hydroxyl group seen on the aromatic ring."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0980_01.mp3"
     },
     "content": "Examine <image1>. With reference to the <audio1>, describe the type of reactions this molecule might undergo, considering its functional groups. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0980_02.png",
-      "audio2": "This molecule can undergo nucleophilic substitution reactions due to the presence of an aromatic ring, which is illustrated in the image. The hydroxyl group is often a key site for reactivity, initiating these reactions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0980_02.mp3"
     },
     "content": "<image2> illustrates the reaction mechanism that the given molecule might undergo. According to <audio2>, the presence of the hydroxyl group facilitates nucleophilic substitution, typical in aromatic compounds."
   }
@@ -18631,14 +18631,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0981_01.png",
-      "audio1": "This image features a complex chemical structure. It is crucial to understand how the functional groups impact the molecule's reactivity. Pay attention to the alcohol and ether groups, as they play a significant role. Listen to the audio for detailed analysis."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0981_01.mp3"
     },
     "content": "Examine the <image1> structure and listen to <audio1> for insights. Discuss the chemical properties, including reactivity and functional groups. The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0981_02.png",
-      "audio2": "The new image illustrates the same molecule, highlighting functional groups. Note the alcohol group at the end, affecting solubility. The molecule's length also influences its physical properties."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0981_02.mp3"
     },
     "content": "The highlighted <image2> shows distinctive functional groups impacting the molecule's characteristics. Listen to <audio2> for a comprehensive explanation of its solubility and physical properties."
   }
@@ -18650,14 +18650,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0982_01.png",
-      "audio1": "The image illustrates the structure of a heterocyclic compound featuring a sulfur atom and a pyrimidine ring. Please describe its potential reactivity and properties with reference to the sulfur group."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0982_01.mp3"
     },
     "content": "Examine the <image1> structure and consider the added information in the <audio1>. Based on this, why might the sulfur group be significant in its chemical reactions? The answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0982_02.png",
-      "audio2": "The sulfur atom in this compound can act as a nucleophile due to its lone pairs, potentially participating in substitution reactions. Additionally, the adjacent pyrimidine ring can stabilize reactive intermediates. These properties possibly enhance the compound's reactivity, as seen in the <image2> which shows an example reaction."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0982_02.mp3"
     },
     "content": "The presence of sulfur is crucial due to its nucleophilic behavior, which can significantly impact the compound's chemical behavior as illustrated in <image2> and explained in detail in <audio2>."
   }
@@ -18669,14 +18669,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0983_01.png",
-      "audio1": "This audio describes the initial molecular structure presented. The image shows a complex organic molecule with multiple heteroatoms and side chains. Examine the connectivity and consider the potential reactivity each functional group may confer."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0983_01.mp3"
     },
     "content": "Analyze the structure depicted in <image1>. <audio1> provides additional context. Explain the types of reactions this molecule might undergo based on the displayed functional groups and heteroatoms. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0983_02.png",
-      "audio2": "The image illustrates the molecule's reactivity post structural modification. Key reactions include nucleophilic attacks at various heteroatoms and possible nucleophilic substitutions. The presence of particular functional groups suggests pathways for oxidation and reduction reactions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0983_02.mp3"
     },
     "content": "<image2> displays the modified molecular structure highlighting changes after potential reactions. <audio2> offers an in-depth exploration of these possible chemical transformations."
   }
@@ -18688,14 +18688,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0984_01.png",
-      "audio1": "This molecule consists of a series of aromatic rings and functional groups. The resonance within these rings enhances stability and impacts chemical reactivity. Observe how the substituents influence overall properties."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0984_01.mp3"
     },
     "content": "Analyze the structure shown in <image1>. How do its features influence chemical reactivity? Discuss its stability using <audio1> to explain these concepts. Ensure your answer includes visual and auditory details."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0984_02.png",
-      "audio2": "The molecular arrangement includes conjugated systems, which facilitate electron delocalization, contributing to overall stability. Functional groups participate in hydrogen bonding, affecting solubility and reactivity in different environments."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0984_02.mp3"
     },
     "content": "The molecule's conjugated systems as seen in <image2> promote electron delocalization, enhancing its stability. Functional groups like hydroxyls engage in hydrogen bonding, significantly impacting solubility and reactivity. <audio2> provides a detailed explanation of these features."
   }
@@ -18707,14 +18707,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0985_01.png",
-      "audio1": "This structure is a complex organic compound featuring multiple functional groups. Notice the location and orientation of the hydroxyl group and its impact on stereochemistry."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0985_01.mp3"
     },
     "content": "Examine the molecular structure shown in <image1> and listen to the detailed description in <audio1>. How do these structural features influence the chemical behavior and reactivity of the compound? Include one image and one audio in your explanation to support your reasoning."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0985_02.png",
-      "audio2": "The image shows a modification on the original structure by adding an ester group. This transformation can increase the compound's solubility in organic solvents and alter its reactivity profile by introducing additional sites for reaction."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0985_02.mp3"
     },
     "content": "The additional ester group in <image2> modifies the original structure's solubility and reactivity. Listen to <audio2> for an explanation of the molecular changes and their implications on chemical behavior."
   }
@@ -18726,14 +18726,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0986_01.png",
-      "audio1": "The structure shown features a benzofuran moiety connected to an ethylamine. Attention should be given to the aromatic rings and the hydroxyl group."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0986_01.mp3"
     },
     "content": "Analyze the molecular structure presented in <image1> and listen to <audio1> to distinguish the functional groups. Which transformations could this compound undergo, considering its structural features? The answer must include one image and one audio to support the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0986_02.png",
-      "audio2": "The compound can undergo reactions typical for aromatic systems, such as electrophilic aromatic substitution. The hydroxyl group could participate in hydrogen bonding or act as a nucleophile."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0986_02.mp3"
     },
     "content": "The molecular structure is conducive to several chemical reactions. The presence of the benzofuran and hydroxyl group, as depicted in <image2>, suggests potential chemical behavior. The electrophilic aromatic substitution is one possible transformation, as explained in <audio2>."
   }
@@ -18745,14 +18745,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0987_01.png",
-      "audio1": "This audio describes the basic structure of the molecule depicted in the image, including its functional groups and any notable substituents. Pay attention to the distinct bonding patterns and molecular geometry."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0987_01.mp3"
     },
     "content": "Examine <image1> and listen to <audio1> to understand the structure and composition of the molecule shown. Explain how these structural features might influence its chemical reactivity and properties. Your answer must include one image and one audio to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0987_02.png",
-      "audio2": "The molecular structure's aromatic ring and ester linkage play key roles in determining its reactivity. The aromatic system can engage in electrophilic aromatic substitution, while the ester group is susceptible to hydrolysis under acidic or basic conditions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0987_02.mp3"
     },
     "content": "The chemical structure in <image2> highlights important reactivity characteristics. The audio explanation in <audio2> describes how the aromatic and ester components influence its behavior in chemical reactions."
   }
@@ -18764,14 +18764,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0988_01.png",
-      "audio1": "The image contains a heterocyclic compound with nitrogen and sulfur atoms. Explore the roles these atoms play in the chemical reactivity of the compound."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0988_01.mp3"
     },
     "content": "Analyze the structure shown in <image1> and explain how the presence of nitrogen and sulfur atoms affects the molecule's chemical properties. Make sure your explanation includes an illustrative image and an audio description. <audio1>. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0988_02.png",
-      "audio2": "The electrophilic sites on the molecule can be influenced by the electronegativity and lone pairs of the nitrogen and sulfur atoms, increasing its reactivity in nucleophilic substitution reactions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0988_02.mp3"
     },
     "content": "The presence of heteroatoms in the molecule greatly impacts its chemical behavior. Nitrogen, with its lone pair, can act as an electron donor, while sulfur's polarizability enhances reactivity. For a full explanation, refer to the accompanying image <image2> and audio <audio2>."
   }
@@ -18783,14 +18783,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0989_01.png",
-      "audio1": "Observe the molecular structure shown in the diagram, paying attention to the functional groups attached. Consider the impact of these functional groups on the molecule's reactivity and stability."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0989_01.mp3"
     },
     "content": "Examine the <image1> to determine the type of aromatic compound depicted. Additionally, listen to the <audio1> for a detailed description of the functional groups present. How do these characteristics influence the potential reactions this compound might undergo? The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0989_02.png",
-      "audio2": "This molecule likely undergoes electrophilic aromatic substitution due to the presence of electron-donating hydroxyl groups that activate the aromatic ring. Such groups enhance the ring's nucleophilic character, making it more susceptible to attack by electrophiles."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0989_02.mp3"
     },
     "content": "The given aromatic compound can be identified as a derivative of naphthalene with hydroxyl substituents. The <image2> illustrates a potential mechanism pathway for an electrophilic aromatic substitution reaction. Listen to the <audio2> for insights on how the functional groups affect the reaction pathway."
   }
@@ -18802,14 +18802,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0990_01.png",
-      "audio1": "This audio describes the molecular structure of the compound, highlighting the indole moiety and the lactone ring."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0990_01.mp3"
     },
     "content": "Analyze the molecular structure shown in <image1>. Explain the significance of each functional group with the help of the chemical structure described in <audio1>. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0990_02.png",
-      "audio2": "In this audio, we explore the reactivity of the ketone group in the context of the bicyclic structure, including its interaction with neighboring functional groups."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0990_02.mp3"
     },
     "content": "The molecule has a complex bicyclic structure that provides significant stability. <image2> shows how the ketone functionality is positioned in relation to the other components, influencing its reactivity. Refer to <audio2> for a detailed explanation of the molecular interactions."
   }
@@ -18821,14 +18821,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0991_01.png",
-      "audio1": "The compound depicted in the image is a highly chlorinated polycyclic aromatic compound. Examine how the chlorine atoms are distributed across the structure and discuss how they might affect the compound’s reactivity."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0991_01.mp3"
     },
     "content": "Analyze the molecular structure shown in <image1> and listen to the explanation provided in <audio1>. How does the presence of multiple chlorine atoms impact the stability and chemical reactivity of the compound? Your answer should include both an image and an audio explanation to support your findings."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0991_02.png",
-      "audio2": "Chlorine atoms, being highly electronegative, withdraw electron density from the polycyclic framework, which can stabilize the molecule against certain types of reactivity. However, this electron-withdrawing effect can also make the compound more susceptible to nucleophilic attacks. The distribution and number of chlorine atoms create a specific electronic environment that influences both the stability and reactivity patterns."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0991_02.mp3"
     },
     "content": "The image <image2> provides visual information about the electron distribution in such chlorinated compounds. Listen to the detailed chemical explanation in <audio2> to understand how chlorine affects the overall stability and potential chemical reactivity."
   }
@@ -18840,14 +18840,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0992_01.png",
-      "audio1": "This molecule contains a phenol moiety, which is capable of hydrogen bonding, giving it specific solubility properties in polar solvents."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0992_01.mp3"
     },
     "content": "Examine the molecular structure in <image1> and listen to the explanation in <audio1>. What is the significance of hydrogen bonding observed in this structure, and how does it impact the molecule's chemical properties? Explain with an image and an audio."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0992_02.png",
-      "audio2": "The hydrogen bonding in this molecule greatly enhances its water solubility and influences its reactivity by stabilizing certain transition states in reactions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0992_02.mp3"
     },
     "content": "The hydrogen bonding shown in <image2> illustrates how it can increase solubility and stabilize reactions. Listen to further details in <audio2>."
   }
@@ -18859,14 +18859,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0993_01.png",
-      "audio1": "The compound shown in the image is a beta-keto acid. Beta-keto acids are known for undergoing decarboxylation reactions. Pay attention to the hydroxyl and carbonyl groups as they play a crucial role in the mechanism."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0993_01.mp3"
     },
     "content": "Examine the chemical structure in <image1> and listen to the description in <audio1>. How does the structural arrangement facilitate decarboxylation, and what are the expected products of this reaction? Your answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0993_02.png",
-      "audio2": "In the decarboxylation of beta-keto acids, the electron-withdrawing keto group stabilizes the carbanion intermediate. This leads to the loss of carbon dioxide, resulting in the formation of a stable enol, which usually tautomerizes to a ketone."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0993_02.mp3"
     },
     "content": "The decarboxylation reaction proceeds via the formation of a six-membered cyclic transition state. As shown in <image2>, the reaction produces a ketone. Listen to <audio2> for an explanation of the mechanism and stabilization involved."
   }
@@ -18878,14 +18878,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0994_01.png",
-      "audio1": "The structure shown in the image represents a common aromatic compound. Describe how aromaticity affects its chemical properties, and explain the hybridization of the atoms in the ring."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0994_01.mp3"
     },
     "content": "Examine <image1> and listen to <audio1>. Explain how the aromaticity of this structure impacts its reactivity, and mention the hybridization states involved. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0994_02.png",
-      "audio2": "This compound is highly stable due to its aromatic nature. The hybridization of the carbon atoms in the ring is sp2, which allows for delocalization of electrons, contributing to its aromaticity."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0994_02.mp3"
     },
     "content": "The stability of the compound due to its aromatic nature is showcased in <image2>, and <audio2> explains the delocalization of electrons and sp2 hybridization contributing to its unique properties."
   }
@@ -18897,14 +18897,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0995_01.png",
-      "audio1": "The image displays a complex organic molecule with multiple functional groups including an ester, an amide, and a nitrile. Pay close attention to the arrangement of atoms and the sequence in which these functional groups are connected, as this influences the molecule's chemical reactivity."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0995_01.mp3"
     },
     "content": "Analyze the structure shown in <image1> and consider how the arrangement affects its chemical behavior. Use <audio1> to guide you through understanding the functional groups present. Explain how this understanding can be applied to predict the properties of similar compounds. Ensure the answer includes one image and one audio to support your explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0995_02.png",
-      "audio2": "This structure features a bicyclic system with distinct functional groups that affect its stability and solubility. The presence of the ester group might affect its permeability in biological membranes, aiding in pharmacokinetic properties."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0995_02.mp3"
     },
     "content": "In the molecule shown in <image2>, the arrangement highlights the effect of structural features on reactivity. The <audio2> elaborates on how such modifications can influence biological activity, providing insights into drug development processes."
   }
@@ -18916,14 +18916,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0996_01.png",
-      "audio1": "The structure shown is pyridine, a simple aromatic heterocyclic organic compound. Pyridine is used as a precursor to agrochemicals and pharmaceuticals and is typically synthesized from ammonia and acetaldehyde."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0996_01.mp3"
     },
     "content": "Observe the <image1> carefully and listen to the <audio1> to understand pyridine's structure and its applications. Explain the key chemical changes or reactions required to convert this molecule to an alternate form, illustrating one image and one audio in the output."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0996_02.png",
-      "audio2": "The transformation involves oxidation reactions, where the pyridine ring undergoes functionalization. This typically results in the addition of hydroxyl groups, modifying its chemical properties significantly."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0996_02.mp3"
     },
     "content": "To convert pyridine into a functionalized derivative, oxidation is required. Examine the <image2> of the modified molecule. The <audio2> details the functionalization process through oxidation reactions, which involve adding functional groups like hydroxyl to the pyridine ring."
   }
@@ -18935,14 +18935,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0997_01.png",
-      "audio1": "The image shows a complex organic molecule with various functional groups, including a methoxy group and a pyridine ring. Pay attention to the positions of these groups as they influence the molecule’s physical and chemical properties."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0997_01.mp3"
     },
     "content": "Analyze the molecular structure shown in <image1> and listen to the explanation in <audio1>. Explain how the presence of the methoxy group and pyridine ring affects the molecule's solubility and reactivity. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0997_02.png",
-      "audio2": "In this image, the molecular structure has undergone a transformation where the carboxylic acid has reacted with an amine to form an amide linkage. This change may impact the molecule's solubility and reactivity due to alterations in polarity and hydrogen bonding potential."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0997_02.mp3"
     },
     "content": "The image in <image2> depicts a chemical reaction that alters functional groups. According to <audio2>, the modification from carboxylic acid to amide affects properties like solubility and reactivity, providing insight into the molecular behavior."
   }
@@ -18954,14 +18954,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0998_01.png",
-      "audio1": "The image shows the molecular structure of a nitrile compound. In general, nitriles contain a carbon triple-bonded to a nitrogen atom, represented by the 'CN' group in their molecular structure. Understanding this basic structure helps in identifying functional groups and predicting the chemical behavior of nitriles."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0998_01.mp3"
     },
     "content": "Analyze the molecular structure depicted in <image1>. Use the <audio1> to describe the functional groups present and explain their potential reactivity. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0998_02.png",
-      "audio2": "This compound contains a cyano group, identifiable by its triple bond between carbon and nitrogen. Nitriles typically undergo reactions such as nucleophilic addition or reduction, which can alter the nitrogen-carbon connectivity. The presence of an isolated C≡N stretch is a critical feature in spectral analysis."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0998_02.mp3"
     },
     "content": "<image2> illustrates the linear conformation of the carbon and nitrogen triple bond characteristic of nitriles. <audio2> explains that this bonding impacts the compound's reaction mechanisms, including common pathways like nucleophilic addition."
   }
@@ -18973,14 +18973,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0999_01.png",
-      "audio1": "The given molecular structure in the image is a key compound in pharmacology. It involves heterocyclic rings and substitution patterns essential for its function. Describe its characteristics and potential applications."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0999_01.mp3"
     },
     "content": "Examine the chemical properties and potential uses of the compound shown in <image1>. The accompanying <audio1> details the molecular structure and guides you to explore its significance. Consider both visual and auditory information to provide an insightful explanation. The answer must include one image and one audio in the output to support or illustrate the explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_0999_02.png",
-      "audio2": "The molecule depicted is crucial in drug development due to its aromatic and thiophene rings, which facilitate binding to target receptors. Its structure supports interactions important in therapeutic contexts."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_0999_02.mp3"
     },
     "content": "The compound illustrated in <image2> demonstrates important pharmacological properties. As described in <audio2>, its structure allows specific interactions that enhance drug efficacy, illustrating its value in medicinal chemistry."
   }
@@ -18992,14 +18992,14 @@
   "input": {
     "modal": {
       "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1000_01.png",
-      "audio1": "This molecular structure features a heterocyclic compound with nitrogen and sulfur atoms. Identify the role of the fluorine atom in the compound and how it affects the molecule's polarity."
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1000_01.mp3"
     },
     "content": "Analyze the given molecular structure represented in <image1>. Discuss how the presence of fluorine influences the chemical properties of the molecule. Support your explanation with an observation from the audio description <audio1>. For a comprehensive answer, your response must include one additional image and an audio explanation."
   },
   "output": {
     "modal": {
       "image2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1000_02.png",
-      "audio2": "The fluorine atom significantly increases the electronegativity of the molecule, enhancing its dipole moment. This modification can impact intermolecular interactions, making the compound more reactive in certain conditions."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1000_02.mp3"
     },
     "content": "The molecular structure in <image2> shows the resulting interactions due to fluorine's presence, which can lead to an increased dipole moment as <audio2> describes. Analyze how these structural changes affect chemical reactivity."
   }
@@ -19537,7 +19537,7 @@
   },
   "output": {
     "modal": {
-      "audio2": "We face an aging population and a growing burden of chronic disease, which makes the search for new therapies urgent. The narration describes how advances in biology converge with technology—nanodevices for monitoring and repair, and tissue engineering to restore damaged tissues—pushing healthcare toward personalization. It highlights immunotherapy to strengthen T-cell responses and CRISPR genome editing to correct mutations at their source. These innovations point to more tailored, possibly home-delivered care and a shift from replacement to regeneration. Ethical oversight and equitable access remain essential as these tools reshape the future of medicine."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1031_02.mp3"
     },
     "content": "The recap in <audio2> condenses the narration into a clear overview of the drivers of change and the roles of nanotechnology, regenerative medicine, immunotherapy, and CRISPR in enabling personalized care; this is the single supporting audio requested."
   }
@@ -19555,7 +19555,7 @@
   },
   "output": {
     "modal": {
-      "audio2": "Nanobots are nanoscale devices engineered to travel through the bloodstream and selectively home in on cancer cells using molecular markers. By delivering therapy directly to tumors while sparing healthy tissue, they promise fewer side effects than conventional chemotherapy. Early animal work, such as mouse studies, has shown tumor shrinkage, but human use still requires solving engineering and safety challenges. Beyond oncology, concepts include diagnostic nanoprobes, tissue-repair bots, and artificial blood components like respirocytes and hemostasis systems. Altogether, nanobots point toward precise, minimally invasive treatments with broad future potential."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1032_02.mp3"
     },
     "content": "The narrated summary in <audio2> captures the key ideas from <audio1>: targeted cancer treatment with fewer side effects, promising preclinical results, and extensions to diagnosis, tissue repair, and artificial blood."
   }
@@ -19573,7 +19573,7 @@
   },
   "output": {
     "modal": {
-      "audio2": "Parkinson’s disease is a common neurodegenerative disorder marked by slowed movement, rigidity, tremor, and a range of non-motor symptoms that can precede diagnosis. The core pathology involves progressive loss of dopaminergic neurons in the substantia nigra pars compacta, which disrupts basal ganglia circuits controlling movement. Misfolded alpha-synuclein aggregates into Lewy bodies, while mitochondrial dysfunction and impaired quality control increase cellular stress; activated microglia and astrocytes can further amplify injury through neuroinflammation. Current treatments such as dopamine replacement and deep brain stimulation relieve symptoms but do not halt neurodegeneration. Emerging strategies aim to enhance protein clearance, restore mitochondrial health, and modulate inflammation to slow disease progression."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1033_02.mp3"
     },
     "content": "This recap is delivered in <audio2> as the single requested audio accompaniment, summarizing symptoms, dopaminergic loss, protein pathology, mitochondrial and inflammatory mechanisms, and therapeutic directions."
   }
@@ -19591,7 +19591,7 @@
   },
   "output": {
     "modal": {
-      "audio2": "Heart failure remains the leading global killer, and the shortage of donor hearts means most candidates never receive a transplant. The narration traces the field from the first total artificial heart through devices like SynCardia and Carmat, highlighting lessons from mechanical wear and reliability. A newer approach, BiVACOR’s rotary total artificial heart, uses a magnetically levitated spinning disk to pump blood continuously, aiming to reduce wear and extend durability. Even with these advances, real-world hurdles persist—especially bulky external power packs and limited battery life—spurring work on better energy efficiency and wireless charging. As trials progress toward regulatory approval, durable, permanent artificial hearts could shift care from temporary bridges to long-term replacements for patients with end-stage heart failure."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1034_02.mp3"
     },
     "content": "The recap in <audio2> conveys why artificial hearts are needed, how designs have evolved, what differentiates the BiVACOR rotary system, and which power and durability issues still stand between today’s devices and truly permanent replacements—delivered as the single supporting audio item."
   }
@@ -19609,7 +19609,7 @@
   },
   "output": {
     "modal": {
-      "audio2": "From conception onward, the brain rapidly organizes billions of neurons, pruning and strengthening connections through childhood to lay the foundations for learning and behavior. During adolescence, emotional circuits mature earlier than rational control systems, which helps explain greater risk-taking as integration continues. With aging, people often recruit both hemispheres and draw on experience to maintain function even as structural and chemical changes progress. Studies also suggest brief, organized brain activity can persist near death, possibly relating to vivid life recall. Overall, the narration frames the brain as resilient and plastic across life, shaped by experience from the earliest stages through the end."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1035_02.mp3"
     },
     "content": "The narrated recap in <audio2> condenses the key ideas from <audio1>: rapid early wiring and pruning, teen imbalances between emotion and control, adaptive strategies in aging, and observations of transient activity close to death."
   }
@@ -19627,7 +19627,7 @@
   },
   "output": {
     "modal": {
-      "audio2": "The narration frames Alzheimer’s less as a problem solved by a single breakthrough drug and more as a metabolic disorder influenced by everyday choices. It reviews mixed results and safety concerns for recent anti-amyloid drugs, arguing that prevention must begin decades before symptoms. Lifestyle becomes the centerpiece: exercise acting like an endocrine organ releasing myokines that support brain metabolism, and diet patterns that raise nitric oxide—via nitrate-rich greens and beets—to improve blood flow. The takeaway is a proactive, prevention-first strategy: prioritize movement and nutrient-dense foods to support brain energy systems and potentially delay cognitive decline."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1036_02.mp3"
     },
     "content": "Delivered in <audio2>, this concise recap emphasizes the speaker’s thesis on metabolism-centered brain health, the limits of drug-only approaches, and practical prevention themes around exercise and nitrate-rich diets."
   }
@@ -19645,7 +19645,7 @@
   },
   "output": {
     "modal": {
-      "audio2": "Sugar is woven through the modern diet, often hidden behind appealing labels and engineered ‘bliss point’ formulations that keep us craving more. The narration links rising consumption to obesity, diabetes, and broader chronic disease trends, arguing that the threat now mirrors the tobacco era in scale and urgency. It shows how everyday items marketed as healthy can carry surprising sugar loads, then offers simple strategies: choose whole, minimally processed foods, cook more at home, and read labels carefully for renamed sugars. The piece also calls on industry and regulators to provide clearer labeling and rein in manipulative marketing so families can make informed choices. Bottom line: reducing added sugar is one of the highest-impact steps most people can take for long-term health."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1037_02.mp3"
     },
     "content": "This summary is delivered in <audio2>, highlighting hidden sugars and marketing tactics, the link to chronic disease, and actionable ways for consumers to cut added sugar while urging clearer labeling."
   }
@@ -19663,7 +19663,7 @@
   },
   "output": {
     "modal": {
-      "audio2": "Insulin resistance sits at the center of modern metabolic disease, and fat cells are key players. Adipose tissue expands by hypertrophy—each adipocyte getting larger—or by hyperplasia—making more adipocytes; oversized, hypertrophic cells are strongly linked to insulin resistance and spillover of fuels. Each person has a personal fat threshold: once storage capacity is exceeded, lipids and inflammatory signals escape into the circulation and metabolism deranges. Fat gain requires both energy surplus and elevated insulin, which promotes storage and suppresses lipolysis; conversely, when insulin is low, fat cells can shrink even without severe energy restriction. These principles explain population differences in risk, why some drugs that induce adipocyte hyperplasia can paradoxically improve insulin sensitivity, and why focusing on insulin dynamics is crucial in interpreting diet studies and clinical care."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1038_02.mp3"
     },
     "content": "This synthesized recap is provided in <audio2>—the single supporting audio requested—covering insulin resistance, adipocyte growth modes, the personal fat threshold, and how insulin/energy interplay shapes metabolic health."
   }
@@ -19681,7 +19681,7 @@
   },
   "output": {
     "modal": {
-      "audio2": "Diabetes is framed here as a disorder of insulin resistance rather than simply high blood sugar, which is why drug-based glucose lowering often fails to change the disease’s trajectory. The speaker explains the vicious cycle: chronically high insulin drives greater resistance, leading to higher doses and worsening metabolic health over time. A dietary approach—reducing refined carbohydrates and using structured fasting—can lower insulin, empty excess stored glucose, and improve markers without escalating medication. Case examples illustrate meaningful reversals, and the takeaway is to prioritize insulin-lowering lifestyle strategies alongside medical supervision."
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1039_02.mp3"
     },
     "content": "The recap is delivered in <audio2>, distilling the message from <audio1> about insulin resistance as the root cause, the limits of glucose-centric medication, and practical dietary tools to break the cycle."
   }
@@ -19699,26 +19699,7 @@
   },
   "output": {
     "modal": {
-      "audio2": "The speaker argues that much of modern disease stems from chronic inflammation fueled by processed foods, sugars and refined carbohydrates, and some polyunsaturated seed oils. He promotes a low-carbohydrate, healthy-fat pattern centered on whole, seasonal, locally sourced foods as a practical way to calm inflammation and improve metabolic health. Fructose sources and refined carbs are highlighted for their effects on insulin resistance, while the talk urges skepticism toward industry-driven nutrition narratives. The takeaway is a simple, personal playbook: prioritize real foods, cut ultraprocessed products, and engage your community to shift norms toward healthier eating."
-    },
-    "content": "This recap is delivered in <audio2> as the single accompanying audio, capturing the core claims on inflammation, LCHF eating, the pitfalls of processed foods and added sugars, and the call for informed, personal dietary choices."
-  }
-}
-{
-  "domain": "natural_science",
-  "subdomain": "chemistry",
-  "id": "1041",
-  "input": {
-    "modal": {
-      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1041_01.png",
-      "audio1": ""
-    },
-    "content": "From <audio1> paired with <video1>, summarize the talk’s message about diet, inflammation, and health: the harms of processed foods, sugar/carbohydrates, and certain polyunsaturated oils; why the speaker promotes an LCHF approach with whole, local, seasonal foods; and the personal-responsibility call to action. Include one—and only one—supporting audio clip in the output."
-  },
-  "output": {
-    "modal": {
-      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1041_01.mp4",
-      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1041_02.mp3"
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1040_02.mp3"
     },
     "content": "This recap is delivered in <audio2> as the single accompanying audio, capturing the core claims on inflammation, LCHF eating, the pitfalls of processed foods and added sugars, and the call for informed, personal dietary choices."
   }
