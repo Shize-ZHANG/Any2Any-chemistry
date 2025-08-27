@@ -1,0 +1,180 @@
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1031",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1031_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1031_01.mp3"
+    },
+    "content": "From <audio1> in <video1>, craft a brief spoken-style summary (3–5 sentences) of the video’s message about modern medicine, personalized therapies, nanotechnology, regenerative medicine, immunotherapy, and CRISPR. Please attach exactly 1 supporting audio clip in the output."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1031_02.mp3"
+    },
+    "content": "The recap in <audio2> condenses the narration into a clear overview of the drivers of change and the roles of nanotechnology, regenerative medicine, immunotherapy, and CRISPR in enabling personalized care; this is the single supporting audio requested."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1032",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1032_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1032_01.mp3"
+    },
+    "content": "From <audio1> in <video1>, deliver a concise spoken-style overview (3–5 sentences) covering what medical nanobots are, how they home to cancer cells in the bloodstream, why this can reduce side effects versus chemotherapy, current research progress, and broader applications. Include exactly 1 supporting audio clip in the output to accompany the explanation."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1032_02.mp3"
+    },
+    "content": "The narrated summary in <audio2> captures the key ideas from <audio1>: targeted cancer treatment with fewer side effects, promising preclinical results, and extensions to diagnosis, tissue repair, and artificial blood."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1033",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1033_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1033_01.mp3"
+    },
+    "content": "Using <audio1> from <video1>, give a concise narrated overview of Parkinson’s disease: major motor and non-motor symptoms, dopaminergic neuron loss in the substantia nigra pars compacta, the roles of alpha-synuclein/Lewy bodies, mitochondrial dysfunction, neuroinflammation, and current versus investigational therapies. Please attach one—and only one—supporting audio clip in the output."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1033_02.mp3"
+    },
+    "content": "This recap is delivered in <audio2> as the single requested audio accompaniment, summarizing symptoms, dopaminergic loss, protein pathology, mitochondrial and inflammatory mechanisms, and therapeutic directions."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1034",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1034_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1034_01.mp3"
+    },
+    "content": "Using <audio1> from <video1>, summarize the story of artificial hearts—why heart failure demands new options, transplant scarcity, the evolution from early total artificial hearts to modern devices (e.g., SynCardia/Carmat), the BiVACOR rotary design, and remaining power/durability challenges with future outlook. Include one supporting audio clip in the output to accompany the explanation."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1034_02.mp3"
+    },
+    "content": "The recap in <audio2> conveys why artificial hearts are needed, how designs have evolved, what differentiates the BiVACOR rotary system, and which power and durability issues still stand between today’s devices and truly permanent replacements—delivered as the single supporting audio item."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1035",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1035_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1035_01.mp3"
+    },
+    "content": "Based on <audio1> that accompanies <video1>, produce a spoken-style synopsis of the brain’s lifecycle—early development and neuroplasticity, adolescent changes, aging adaptations, and end-of-life activity. Include exactly 1 supporting audio clip in the output to accompany your explanation."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1035_02.mp3"
+    },
+    "content": "The narrated recap in <audio2> condenses the key ideas from <audio1>: rapid early wiring and pruning, teen imbalances between emotion and control, adaptive strategies in aging, and observations of transient activity close to death."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1036",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1036_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1036_01.mp3"
+    },
+    "content": "From <audio1> accompanying <video1>, provide a spoken-style overview of Dr. David Perlmutter’s message: brain–metabolism links in Alzheimer’s, limits of recent drugs, the long preclinical window for prevention, and lifestyle levers such as exercise, myokines, nitric oxide/dietary nitrates, and colorful vegetables. Please include a single supporting audio clip in the output."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1036_02.mp3"
+    },
+    "content": "Delivered in <audio2>, this concise recap emphasizes the speaker’s thesis on metabolism-centered brain health, the limits of drug-only approaches, and practical prevention themes around exercise and nitrate-rich diets."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1037",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1037_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1037_01.mp3"
+    },
+    "content": "Using <audio1> from <video1>, compose a spoken recap covering sugar’s hidden presence in processed foods, industry tactics like the ‘bliss point,’ health risks (obesity/diabetes), and practical ways to cut intake and improve labeling transparency. Please attach a single supporting audio clip in the output."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1037_02.mp3"
+    },
+    "content": "This summary is delivered in <audio2>, highlighting hidden sugars and marketing tactics, the link to chronic disease, and actionable ways for consumers to cut added sugar while urging clearer labeling."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1038",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1038_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1038_01.mp3"
+    },
+    "content": "Using <audio1> that accompanies <video1>, give a concise narrated overview of metabolism and fat-cell biology: insulin resistance, adipocyte hypertrophy vs. hyperplasia, the personal fat threshold, how insulin and energy availability govern storage and release, and research/clinical implications. Include one audio attachment in the output to accompany your explanation (exactly 1 audio)."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1038_02.mp3"
+    },
+    "content": "This synthesized recap is provided in <audio2>—the single supporting audio requested—covering insulin resistance, adipocyte growth modes, the personal fat threshold, and how insulin/energy interplay shapes metabolic health."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1039",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1039_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1039_01.mp3"
+    },
+    "content": "Using the narration in <audio1> that accompanies <video1>, summarize the talk’s core argument about diabetes: why focusing only on blood glucose misses the disease’s root in insulin resistance, how standard medications can perpetuate the cycle, and which dietary strategies (e.g., carbohydrate restriction, intermittent fasting) help lower insulin and improve outcomes. Please return exactly one supporting audio clip in the output."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1039_02.mp3"
+    },
+    "content": "The recap is delivered in <audio2>, distilling the message from <audio1> about insulin resistance as the root cause, the limits of glucose-centric medication, and practical dietary tools to break the cycle."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1040",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1040_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1040_01.mp3"
+    },
+    "content": "From <audio1> paired with <video1>, summarize the talk’s message about diet, inflammation, and health: the harms of processed foods, sugar/carbohydrates, and certain polyunsaturated oils; why the speaker promotes an LCHF approach with whole, local, seasonal foods; and the personal-responsibility call to action. Include one—and only one—supporting audio clip in the output."
+  },
+  "output": {
+    "modal": {
+      "audio2": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1040_02.mp3"
+    },
+    "content": "This recap is delivered in <audio2> as the single accompanying audio, capturing the core claims on inflammation, LCHF eating, the pitfalls of processed foods and added sugars, and the call for informed, personal dietary choices."
+  }
+}

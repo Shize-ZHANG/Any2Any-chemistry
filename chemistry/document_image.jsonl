@@ -1,0 +1,170 @@
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1001",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1001_01.png"
+    },
+    "content": "Which oligonucleotide in <document1> is used as the 3′ primer for wild-type BC1 3′ end (T7-3U)? The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1001_01.png"
+    },
+    "content": "The oligonucleotide is **3U**, with the sequence `AAAGGTTGTGTGTGCCAGTT`. This can be verified in <image1>, where it is shown as the 3′ primer for wild-type BC1 3′ end (T7-3U)."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1002",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1002_01.png"
+    },
+    "content": "In <document1>, what is the FA value for the region 'cc-sp' under the DTI reconstruction method? The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1002_01.png"
+    },
+    "content": "The FA value for 'cc-sp' under the DTI reconstruction method is **0.61 ± 0.03**, as highlighted in <image1>."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1003",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1003_01.png"
+    },
+    "content": "According to <document1>, what is the Hgb (hemoglobin) value for S100A9Tg mice at 24 weeks compared to WT mice? The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1003_01.png"
+    },
+    "content": "At 24 weeks, the Hgb value is **10.3 ± 0.5 g/dl** for S100A9Tg mice and **13.7 ± 0.6 g/dl** for WT mice, as shown in <image1>."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1004",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1004_01.png"
+    },
+    "content": "Based on <document1>, compare the tumor incidence and median survival between NT shRNA and A20 shRNA-1 for T3359 glioma stem cells at 1000 cells. How do these results differ, and what trend can be observed? The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1004_01.png"
+    },
+    "content": "For T3359 glioma stem cells at 1000 cells, NT shRNA shows an incidence of **5/5** with a median survival of **41 days**, while A20 shRNA-1 shows an incidence of **3/5** with a median survival of **57 days**. As shown in <image1>, this indicates that A20 shRNA-1 reduces tumor incidence and prolongs survival compared to NT shRNA."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1005",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1005_01.png"
+    },
+    "content": "From <document1>, how does increasing the amount of ZFN#1 from 2.5 µg to 10 µg affect the targeting efficiency and the number of homozygous clones obtained in BGO1 cells? Please compare the results quantitatively. The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1005_01.png"
+    },
+    "content": "For ZFN#1 at 2.5 µg, the targeting efficiency is **100/95%** with **4 homozygous clones** (out of 20). At 10 µg, the targeting efficiency decreases slightly to **94%**, but the number of homozygous clones increases to **16**. As shown in <image1>, increasing the dose of ZFN#1 reduces efficiency slightly but produces more homozygous clones."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1006",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1006_01.png"
+    },
+    "content": "In <document1>, compare the cps gene composition of serotype 38 and serotype 4. Which cps genes are unique to serotype 38 but absent in serotype 4, and how do their overall profiles differ? The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1006_01.png"
+    },
+    "content": "Serotype 38 contains cps genes such as **6.04, 2.03, 29.02, 170.01, 171.01, 172.01, 173.01, 174.01, 187.01, 176.01, 177.01, 96.01, 20.03**, which are not present in serotype 4. In contrast, serotype 4 has unique cps genes including **261.01, 29.04, 212.01, 30.03, 213.01, 214.01, 215.01, 23.06, 36.01, 37.01, 38.01**. As shown in <image1>, the two serotypes display distinct cps gene profiles, highlighting genetic diversity across pneumococcal strains."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1007",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1007_01.png"
+    },
+    "content": "In <document1>, how does the approximate change in probability differ when the likelihood ratio decreases from 0.5 to 0.1 compared to when it increases from 2 to 10? What overall trend can be observed in terms of disease probability? The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1007_01.png"
+    },
+    "content": "When the likelihood ratio decreases from 0.5 to 0.1, the probability of disease decreases from **−15%** to **−45%**. In contrast, when the likelihood ratio increases from 2 to 10, the probability of disease rises from **+15%** to **+45%**. As shown in <image1>, values below 1 reduce disease probability while values above 1 increase it, with the magnitude of change becoming larger as the ratio moves further away from 1."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1008",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1008_01.png"
+    },
+    "content": "In <document1>, which clinical parameter shows a statistically significant correlation with BMI, and what are the corresponding correlation coefficient (r) and p-value? The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1008_01.png"
+    },
+    "content": "The only clinical parameter significantly correlated with BMI is **HbA1c (%)**, with a correlation coefficient of **r = 0.299** and a **p-value = 0.008**. This is shown in <image1> as the only bolded entry, indicating statistical significance (p < 0.05)."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1009",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1009_01.png"
+    },
+    "content": "In <document1>, how do the markers of HSCs differ between the emergence stage (E8.5–10.5) and the adult steady state? Please describe the key overlapping markers as well as those that are stage-specific. The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1009_01.png"
+    },
+    "content": "At the emergence stage (E8.5–10.5), HSCs are characterized by markers such as **Runx1⁺, Cd41⁺, Cd34⁺, Cd45⁻, VE-cadherin⁺, Sca1⁺, Aa4.1⁺, endomucin⁺**. In contrast, in the adult steady state, HSCs retain some overlapping markers (**Runx1⁺, Cd45⁺, Sca1⁺, VE-cadherin⁺, endomucin⁺**) but also acquire additional stage-specific markers such as **Cd34⁻, Mac1⁺, Aa4.1⁻, Cd150⁺Cd48⁻**. As shown in <image1>, these changes reflect a transition from early endothelial and progenitor features to mature hematopoietic stem cell phenotypes."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1010",
+  "input": {
+    "modal": {
+      "document1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/documents/doc_1010_01.png"
+    },
+    "content": "In <document1>, which findings are classified as inflammatory changes versus structural changes in sacroiliitis? Provide examples from each category and explain how they differ. The answer must include one image in the output to support or illustrate the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1010_01.png"
+    },
+    "content": "In <image1>, inflammatory changes include **bone marrow edema (BME), capsulitis, synovitis, enthesitis of the ligamentous compartment of the sacroiliac joint, and other pelvic enthesitis**. Structural changes include **erosion of subchondral bone, bone sclerosis, joint space abnormality, articular bony bridges/ankylosis, and fat deposition**. Inflammatory changes reflect active disease processes, while structural changes represent chronic remodeling or damage."
+  }
+}

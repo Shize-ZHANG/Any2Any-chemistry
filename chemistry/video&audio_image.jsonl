@@ -1,0 +1,180 @@
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1021",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1021_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1021_01.mp3"
+    },
+    "content": "In <video1> (\"How mRNA vaccines work\"), focus on ~00:01–00:11 as the virus approaches and attaches to a host cell. The narration in <audio1> states that infection \"begins ... by attaching its spikes to a host cell.\" Question: Which viral structure enables attachment and initiates infection, and why is this structure the primary target of mRNA vaccines? The answer must include 1 image extracted from the video frames to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1021_01.png"
+    },
+    "content": "As shown in <image1>, the spherical virion’s red spike proteins are contacting the host cell membrane. These spikes (S proteins) engage host receptors to trigger entry; therefore mRNA vaccines encode a harmless version of the spike to elicit neutralizing antibodies that block these spikes, preventing cell entry and replication."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1022",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1022_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1022_01.mp3"
+    },
+    "content": "In <video1> (\"Here's what happens to your knuckles when you crack them\"), focus on ~00:09–00:26 where the animation highlights the synovial joint cavity; the narration in <audio1> explains gas bubbles and the ~20-minute refractory period. Answer: What produces the characteristic \"pop,\" why can’t the same knuckle pop again immediately (~20 minutes), and what is the safety takeaway? The answer must include 1 image extracted from the video frames to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1022_01.png"
+    },
+    "content": "The extracted frame <image1> depicts a synovial joint capsule filled with yellow synovial fluid. When the joint is stretched, the space briefly expands, pressure drops, and dissolved gases (O2, N2, CO2) come out of solution to form a cavitation bubble whose rapid formation/collapse produces the pop. It then takes about 20 minutes for those gases to re-dissolve, so the same knuckle won’t pop right away. Evidence suggests the habit is probably safe (no proven link to arthritis), though a small 1990 study reported swelling and reduced grip; stop if it causes pain."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1023",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1023_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1023_01.mp3"
+    },
+    "content": "In <video1>, the narration in <audio1> explains the earliest steps of infection: viral surface proteins act like keys to host-cell receptors. Question: Which viral structure mediates attachment, how does this key–lock interaction enable entry and subsequent replication, and why is this step a prime target for vaccines/antivirals? The answer must include 1 image extracted from the video frames to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1023_01.png"
+    },
+    "content": "<image1> shows a virus particle studded with surface spike proteins approaching a host membrane. These spikes bind specific receptors on the cell surface, triggering conformational changes that drive membrane fusion or receptor-mediated endocytosis—allowing the genome inside to replicate. Because attachment is the gateway step, vaccines and neutralizing antibodies that target the spikes can block binding and prevent infection from taking hold."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1024",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1024_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1024_01.mp3"
+    },
+    "content": "In <video1> with narration in <audio1>, the animation explains that DNA mutations disrupt normal cell-cycle control so cells divide without restraint and invade neighbors. Question: What molecular change drives a normal cell to begin dividing uncontrollably, how does this lead to invasion of surrounding healthy tissue, and why does early detection help? The answer must include 1 image extracted from the video frames to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1024_01.png"
+    },
+    "content": "<image1> shows a labeled pancreatic cancer cell within otherwise normal pancreatic tissue (2000×). Mutations in growth-control genes (activation of oncogenes and/or loss of tumor suppressors) let these cells ignore checkpoints, contact inhibition, and apoptosis, so they proliferate rapidly, crowd and compress neighbors, and secrete factors that break down the surrounding matrix—destroying nearby healthy cells and enabling spread. Detecting such changes early, before deeper invasion or metastasis, limits tissue damage and improves outcomes."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1025",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1025_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1025_01.mp3"
+    },
+    "content": "In <video1> with narration in <audio1>, the topic is a CT (computed tomography) scan—its purpose, what patients should expect, and how to prepare. Question: How does a CT scanner generate diagnostic images, and which preparation steps (e.g., hydration or oral/IV contrast dye) help image quality and safety? The answer must include 1 image extracted from the video frames to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1025_01.png"
+    },
+    "content": "<image1> shows a patient being positioned into the CT gantry. During the exam, the X-ray tube and detectors rotate to capture many projections around the body; a computer reconstructs these into detailed cross-sectional slices and 3D views for diagnosis. If prescribed, contrast dye outlines vessels and organs; good hydration supports kidney clearance. The scan is painless—patients may hear whirring and should lie still to avoid motion blur."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1026",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1026_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1026_01.mp3"
+    },
+    "content": "In <video1>, a Biomedical Science student describes why they chose UQ, and <audio1> emphasizes facilities and research/campus opportunities. Question: What main reasons does the student give for studying Biomedical Science at UQ, and how do hands-on resources (e.g., anatomy models and modern labs) support a research-driven education? The answer must include 1 image extracted from the video frames to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1026_01.png"
+    },
+    "content": "<image1> shows a student examining an anatomical torso model, highlighting UQ’s practical teaching setup. The video explains that strong facilities, access to research projects, and broad campus involvement are key reasons to study at UQ; these resources provide applied learning and early research exposure that strengthen biomedical science training."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1027",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1027_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1027_01.mp3"
+    },
+    "content": "In <video1> with narration in <audio1>, the message is that mixing drugs can trigger unpredictable and dangerous reactions in the body. Question: Why are combinations of substances risky even when each one seems familiar? Briefly explain how pharmacodynamic (effect-level) and pharmacokinetic (metabolism-level) interactions can cause harm, give two example pairings (e.g., alcohol + opioids/benzodiazepines; stimulant + depressant), and state the safety takeaway. The answer must include 1 image extracted from the video frames to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1027_01.png"
+    },
+    "content": "The extracted frame <image1> shows a white smoke question mark above orange flames—signaling the uncertainty and danger of mixing substances. Different drugs can amplify each other’s effects (pharmacodynamic synergy), such as alcohol with opioids or benzodiazepines suppressing breathing, or create conflicting signals (stimulant + depressant) that stress the heart. They can also alter each other’s metabolism (pharmacokinetic inhibition/induction), making a usual dose act like an overdose. Takeaway: there is no reliably safe way to mix drugs—avoid combining substances and seek medical guidance."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1028",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1028_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1028_01.mp3"
+    },
+    "content": "In <video1> with narration in <audio1>, the animation explains how mitochondria generate ATP via the electron transport chain (ETC). Question: What are the roles of Complex I, Complex III, Complex IV, and the mobile carriers CoQ (ubiquinone) and cytochrome c in creating a proton gradient across the inner membrane? What molecule is reduced at Complex IV, and how does the resulting gradient power ATP synthesis? The answer must include 1 image extracted from the video frames to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1028_01.png"
+    },
+    "content": "<image1> depicts ETC proteins embedded in the inner mitochondrial membrane. Electrons from NADH enter at Complex I, which pumps protons from the matrix to the intermembrane space. CoQ shuttles electrons to Complex III, which also pumps protons; cytochrome c then carries electrons to Complex IV, where O2 is reduced to H2O. The accumulated proton gradient (high [H+] in the intermembrane space) drives protons back through ATP synthase (Complex V, not pictured) to synthesize ATP from ADP and Pi."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1029",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1029_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1029_01.mp3"
+    },
+    "content": "In <video1> with narration in <audio1>, the immune system is introduced using examples of macrophages, neutrophils, T cells, and B cells, and how they arise from early precursors. Explain: (1) how hematopoietic stem cells give rise to progenitor cells and immune lineages, (2) the main roles of macrophages and neutrophils in innate defense, and (3) how T cells and B cells provide adaptive immunity and memory. The answer must include 1 image extracted from the video frames to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1029_01.png"
+    },
+    "content": "<image1> highlights the transition from a hematopoietic stem cell to a progenitor cell. Stem cells are self-renewing and multipotent; progenitors are more lineage-restricted with limited self-renewal, branching into myeloid and lymphoid fates. Myeloid progenitors yield macrophages and neutrophils that perform rapid innate defense via phagocytosis, ROS/enzymes, and cytokine release. Lymphoid progenitors produce T and B cells: T helper cells coordinate responses, cytotoxic T cells kill infected cells, and B cells differentiate into plasma cells that secrete antibodies. Both T and B cells form long-lived memory, enabling faster, stronger responses upon reinfection."
+  }
+}
+{
+  "domain": "natural_science",
+  "subdomain": "chemistry",
+  "id": "1030",
+  "input": {
+    "modal": {
+      "video1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/videos/vid_1030_01.mp4",
+      "audio1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/audios/aud_1030_01.mp3"
+    },
+    "content": "In <video1> with narration in <audio1>, the topic is the lymphatic system working alongside blood circulation. Explain the three core functions—(1) returning excess interstitial fluid to the bloodstream, (2) immune surveillance via lymph nodes, and (3) absorption/transport of dietary fats via intestinal lacteals—and how lymphatic vessels and nodes coordinate these tasks. The answer must include 1 image extracted from the video frames to support the explanation."
+  },
+  "output": {
+    "modal": {
+      "image1": "https://raw.githubusercontent.com/Shize-ZHANG/Any2Any-chemistry/main/original_data/images/img_1030_01.png"
+    },
+    "content": "<image1> shows a body-wide network of lymphatic vessels feeding into lymph nodes. Vessels collect excess interstitial fluid as lymph and return it to venous blood (e.g., via the thoracic duct/right lymphatic duct). As lymph passes through nodes, immune cells filter pathogens and debris, initiating adaptive responses. In the small intestine, lacteals absorb dietary fats as chylomicrons, moving them through lymph before they enter the bloodstream—illustrating the system’s roles in fluid balance, immunity, and fat absorption."
+  }
+}
